@@ -1,0 +1,58 @@
+{
+  "name": "node-canvas-api",
+  "version": "1.7.3",
+  "description": "Canvas LMS API for Node",
+  "main": "src/index.js",
+  "module": "es/index.js",
+  "scripts": {
+    "test": "jest --watch",
+    "build:umd": "NODE_ENV=development rollup -c -o dist/node-canvas-api.js",
+    "build:umd:min": "NODE_ENV=production rollup -c -o dist/node-canvas-api.min.js",
+    "build:cjs": "cross-env BABEL_ENV=cjs babel source --out-dir src",
+    "build": "npm run build:cjs",
+    "clean": "rimraf src/* dist/*"
+  },
+  "files": [
+    "src"
+  ],
+  "author": "Justin Lee",
+  "license": "MIT",
+  "dependencies": {
+    "bottleneck": "^2.19.4",
+    "config": "^1.31.0",
+    "dotenv": "^4.0.0",
+    "parse-link-header": "^1.0.1",
+    "prompts": "^0.1.14",
+    "ramda": "^0.25.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-types": "^6.26.0",
+    "cross-env": "^5.2.0",
+    "jest": "^24.8.0",
+    "rollup-plugin-commonjs": "^9.3.4",
+    "rollup-plugin-json": "^3.1.0",
+    "rollup-plugin-node-resolve": "^3.4.0",
+    "rollup-plugin-terser": "^1.0.1"
+  },
+  "keywords": [
+    "canvas",
+    "lms",
+    "client",
+    "api",
+    "instructure"
+  ],
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ubccapico/node-canvas-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ubccapico/node-canvas-api/issues"
+  },
+  "homepage": "https://github.com/ubccapico/node-canvas-api#readme"
+}
