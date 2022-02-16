@@ -138,7 +138,7 @@ To see the percentages of each attribute across the collection, run:
 npm run rarity
 ```
 
-The output will look something like this:
+The output looks like this:
 
 ```sh
 Trait type: Backgrounds
@@ -175,6 +175,13 @@ Trait type: Backgrounds
 ```
 The images folder was uploaded to ![pinata](https://user-images.githubusercontent.com/78571802/154200040-ed70f0aa-9aad-4c77-99d2-7e4a721f9f23.png)
 ![Screen Shot 2022-02-16 at 12 13 20 AM](https://user-images.githubusercontent.com/78571802/154200646-e71212bf-0639-4138-bba1-be1ced303e24.png)
+
+## Zeppelin Imports
+```sh
+import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/ERC721.sol";
+import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/extensions/ERC721Enumerable.sol";
+import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/access/Ownable.sol";
+```
 
 ## Contract on Rinkeby Network
 ![Screen Shot 2022-02-16 at 12 21 00 AM](https://user-images.githubusercontent.com/78571802/154201646-77b48027-2d23-42cb-a850-d87abcc71676.png)
