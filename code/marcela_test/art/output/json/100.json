@@ -1,0 +1,19 @@
+{
+  "name": "Cryptobaras #100",
+  "description": "To Be Or Not To Be Cryptobara",
+  "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/100.png",
+  "dna": "d4ad97422d5f1beca7555977be4525d0c7a792d5",
+  "edition": 100,
+  "date": 1644980711462,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "green_bg"
+    },
+    {
+      "trait_type": "Faces",
+      "value": "coffee_capy"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
