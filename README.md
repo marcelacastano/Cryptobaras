@@ -1,35 +1,180 @@
-# MiamiFintech_Project3
+# NFT Collection Creation 
 
-## Initila Installs for this project 
+![nft_pic](https://user-images.githubusercontent.com/78571802/154198732-8838709e-fabf-4d81-b23d-cf752b99f677.jpeg)
 
-### Brownie
-### Python
-### Jnodes
-### Infura 
+## The source code for nft creation:
+``` sh
+https://github.com/HashLips/hashlips_art_engine/blob/main/src/config.js
+```
 
-## Install Brownie
+## The latest version of node installed:
+``` sh
+node -v  # To check node js version
+v16.14.0 # version installed
+```
+
+## Layers Created:
+The different layers were created and named as folders in the 'layers' directory. All the layer assets were included in these directories. The assets were named with a rarity weight attached in the file name like so: `greenn_bg#10.png`. Where the variable, `rarityDelimiter`, is denoted by the delimiter `#`
+
+The layer assets labeled with `#10` (for regular), `#5` (for rare assets), and `#2` (for super rare).
+
+## Layers added:
+``` sh
+- Backgrounds
+- Faces
+- Glasses
+- Hats
+```
+
+## Layer Configurations
+Multiple different `layerConfigurations` were added to the collection. 
+```js
+const layerConfigurations = [
+  {
+    // Creates up to 60 artworks
+    growEditionSizeTo: 60,
+    layersOrder: [
+      { name: "Backgrounds" },
+      { name: "Faces" },
+      { name: "Glasses" },
+      { name: "Hats" },
+    ],
+  },
+  {
+    // Creates an additional 20 artworks with hats omitted
+    growEditionSizeTo: 80,
+    layersOrder: [
+      { name: "Backgrounds" },
+      { name: "Faces" },
+      { name: "Glasses" },
+    ],
+  },
+  {
+    // Creates an additional 20 artworks with glasses omitted
+    growEditionSizeTo: 100,
+    layersOrder: [
+      { name: "Backgrounds" },
+      { name: "Faces" },
+      { name: "Hats" },
+    ],
+  },
+];
+```
+We mixed up the `layerConfigurations` order on how the images are saved by setting the variable `shuffleLayerConfigurations` in the `config.js` file to true. 
+
+## Build
+The images to be created were outputted to the `build/images` directory and the json in the `build/json` directory:
+
+```sh
+node index.js
+```
+
+The program will output all the images in the `build/images` directory along with the metadata files in the `build/json` directory. Each collection will have a `_metadata.json` file that consists of all the metadata in the collection inside the `build/json` directory. The `build/json` folder also will contain all the single json files that represent each image file. The single json file of a image looks like this:
+
+```json
+{
+  "name": "Cryptobaras #1",
+  "description": "To Be Or Not To Be Cryptobara",
+  "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/1.png",
+  "dna": "a350a741f5ee6e5a6242ff9fe1e360faa3672d7f",
+  "edition": 1,
+  "date": 1644770031593,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "yellow_bg"
+    },
+    {
+      "trait_type": "Faces",
+      "value": "moss_capy"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "blue_shades"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "pink_sun_hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
+```
+## General Metadata
+```js
+// General metadata for Ethereum
+const namePrefix = "CryptoBara_TestRun";
+const description = "To Be Or Not To Be A CryptoBara";
+const baseUri = "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk"
+```
+
+### Generate a preview image
+Create a preview image collage of your collection, run:
+```sh
+npm run preview
+```
+![preview](https://user-images.githubusercontent.com/78571802/154199679-34e9871f-6900-412f-92fd-c5c13633b6b8.png)
 
 
-### Documentation for Brownie
-![brownie](images/guide_images/1-brownie.png)
+### Generate GIF images from collection
 
-### Brownie is best installed by using Pipx. Pipx is a tool to help you install and run end-user applications written in Python
-![brownie](images/guide_images/3-brownie.png)
+In order to export gifs based on the layers created, we set the export on the `gif` object in the `src/config.js` file to `true`. 
+Setting the `repeat: -1` will produces a one time render and `repeat: 0` produces loop forever.
+```js
+const gif = {
+  export: true,
+  repeat: 0,
+  quality: 100,
+  delay: 500,
+};
+```
+![preview](https://user-images.githubusercontent.com/78571802/154199809-dd13384c-8ae4-4c1f-a687-fa89d9217263.gif)
 
-### Alternatively you can use these other methods 
-![brownie](images/guide_images/2-brownie.png)
 
-## Create an Infura Account 
-### Infure provides developers and enterprises with simple, reliable access to Web3 tools and infrastructure. In layman's term it is a way to connect to the blockchain 
+### Printing rarity data (Experimental feature)
 
-### To use Infure, first you will have to create a new project 
-![Infura](images/guide_images/2-Infura.png)
+To see the percentages of each attribute across the collection, run:
+```sh
+npm run rarity
+```
 
-### Once your project is created you will need to obtain your private key and project ID, to do so, go to setting 
+The output will look something like this:
 
-![Infura](images/guide_images/3-Infura.png)
+```sh
+Trait type: Backgrounds
+{
+  trait: 'cyan_bg',
+  weight: '10',
+  occurrence: '11 in 100 editions (11.00 %)'
+}
+{
+  trait: 'green_bg',
+  weight: '10',
+  occurrence: '15 in 100 editions (15.00 %)'
+}
+{
+  trait: 'grey_bg',
+  weight: '10',
+  occurrence: '19 in 100 editions (19.00 %)'
+}
+{
+  trait: 'orange_bg',
+  weight: '10',
+  occurrence: '21 in 100 editions (21.00 %)'
+}
+{
+  trait: 'pink_bg',
+  weight: '10',
+  occurrence: '20 in 100 editions (20.00 %)'
+}
+{
+  trait: 'yellow_bg',
+  weight: '10',
+  occurrence: '14 in 100 editions (14.00 %)'
+}
+```
+The images folder was uploaded to ![pinata](https://user-images.githubusercontent.com/78571802/154200040-ed70f0aa-9aad-4c77-99d2-7e4a721f9f23.png)
+![Screen Shot 2022-02-16 at 12 13 20 AM](https://user-images.githubusercontent.com/78571802/154200646-e71212bf-0639-4138-bba1-be1ced303e24.png)
 
-### Once in the settings tab, you will see the name of your project and can obtain your secret key and your project ID
 
-![Infura](images/guide_images/4-Infura.png)
 
