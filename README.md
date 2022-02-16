@@ -113,8 +113,9 @@ Create a preview image collage of your collection, run:
 ```sh
 npm run preview
 ```
-![preview](https://user-images.githubusercontent.com/78571802/154199679-34e9871f-6900-412f-92fd-c5c13633b6b8.png)
-
+<p align="center">
+  <img width="300" height="1000" src="https://user-images.githubusercontent.com/78571802/154199679-34e9871f-6900-412f-92fd-c5c13633b6b8.png">
+</p>
 
 ### Generate GIF images from collection
 
@@ -129,7 +130,6 @@ const gif = {
 };
 ```
 ![preview](https://user-images.githubusercontent.com/78571802/154199809-dd13384c-8ae4-4c1f-a687-fa89d9217263.gif)
-
 
 ### Printing rarity data (Experimental feature)
 
