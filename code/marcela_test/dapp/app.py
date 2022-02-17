@@ -6,6 +6,7 @@ from dotenv import load_dotenv
 import streamlit as st
 # from bip44 import Wallet
 from web3.gas_strategies.time_based import medium_gas_price_strategy
+from web3.middleware import geth_poa_middleware
 
 load_dotenv()
 
@@ -81,11 +82,11 @@ mintAmount = st.number_input("You Can Mint Up to 5 CryptoBaras", max_value=5, mi
 
 # Enter the purchaser's (To) wallet address
 minter_address = st.text_input("Enter Rinkeby Address")
-print("Minting to wallet address: " +minter_address)
+print("Minting to wallet address: " + minter_address)
 
 # Enter contract owner's wallet address
 contractowner_address = "0x24E8C8f8DA11aeD86b87fd72de1b3203233c50BD"
-contactowner_private_key = os.getenv("METAMASK_ACCOUNT2_PRIVATE_KEY")
+contractowner_private_key = os.getenv("METAMASK_ACCOUNT2_PRIVATE_KEY")
 
 # Build the transaction
 # Get Gas Estimate
@@ -95,8 +96,13 @@ gasEstimate = w3.eth.estimateGas({"to": minter_address, "from": contractowner_ad
 print(gasEstimate)
 
 # Get the nonce
-nonce = w3.eth.getTransactionCount(contractowner_address)
+nonce = w3.eth.get_transaction_count(contractowner_address)
 print("Nonce:", nonce)
+
+
+# Middleware
+w3.middleware_onion.inject(geth_poa_middleware, layer=0)
+
 
 # Mint Button
 if st.button("Mint"):
@@ -105,19 +111,21 @@ if st.button("Mint"):
     
     transaction = {   
         "from": contractowner_address,
-        "to": minter_address,
+        # "to": minter_address,
         "gas": gasEstimate,
-        "maxFeePerGas": 3000000,
+        "gasPrice": w3.eth.generate_gas_price(),
+        # "maxFeePerGas": 3000000,
         "value": cost*mintAmount,
         "nonce": nonce
     }
 
-    tx_hash = contract.functions.mint(int(mintAmount)).transact(transaction)
-
-    receipt = w3.eth.waitForTransactionReceipt(tx_hash)
+    transaction_build = contract.functions.mint(mintAmount).buildTransaction(transaction)
+    signed_tx = w3.eth.account.sign_transaction(transaction, contractowner_private_key)
+    txn_hash = w3.eth.send_raw_transaction(signed_tx.rawTransaction)
+    txn_receipt = w3.eth.wait_for_transaction_receipt(txn_hash)
     
     st.write("Transaction receipt mined:")
-    st.write(dict(receipt))
+    st.write(dict(txn_receipt))
 
 
 
