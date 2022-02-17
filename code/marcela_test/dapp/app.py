@@ -4,9 +4,8 @@ from web3 import Web3
 from pathlib import Path
 from dotenv import load_dotenv
 import streamlit as st
-from bip44 import Wallet
+# from bip44 import Wallet
 from web3.gas_strategies.time_based import medium_gas_price_strategy
-from PIL import Image
 
 load_dotenv()
 
@@ -64,7 +63,7 @@ st.markdown("## There's only 100 CryptoBaras in Existence")
 
 st.markdown("Check how many are left for you to mint:")
 
-if st.button("Check Supply"):
+if st.button("Check Available"):
     total_supply = contract.functions.totalSupply().call()
     token_list = st.write(100-total_supply)
 
@@ -76,42 +75,47 @@ if st.button("Cost"):
     st.write(cost)
 
 # Make a transaction
-
 st.markdown("## Mint Your Own CryptoBara!")
-
-# Account information
-st.markdown("## Enter an Account Address:")
-minter_address = st.text_input("Enter Rinkeby Address")
+st.markdown("Enter an Account Address:")
 mintAmount = st.number_input("You Can Mint Up to 5 CryptoBaras", max_value=5, min_value=1)
+
+# Enter the purchaser's (To) wallet address
+minter_address = st.text_input("Enter Rinkeby Address")
+print("Minting to wallet address: " +minter_address)
 
 # Enter contract owner's wallet address
 contractowner_address = "0x24E8C8f8DA11aeD86b87fd72de1b3203233c50BD"
-
-# Enter contract owner's private key (WARNING: SENSITIVE! Don't store this here in production!!)
 contactowner_private_key = os.getenv("METAMASK_ACCOUNT2_PRIVATE_KEY")
 
-# Enter the purchaser's (To) wallet address
-towallet_address = minter_address
-print("Minting to wallet address: " + towallet_address)
+# Build the transaction
+# Get Gas Estimate
+value = w3.toWei('20', 'finney')
+w3.eth.setGasPriceStrategy(medium_gas_price_strategy)
+gasEstimate = w3.eth.estimateGas({"to": minter_address, "from": contractowner_address, "value": value})
+print(gasEstimate)
 
-# get the nonce
+# Get the nonce
 nonce = w3.eth.getTransactionCount(contractowner_address)
 print("Nonce:", nonce)
 
-
-# Build the transaction
-# 'gas' is the gas fee you pay in Wei (in this case, 1,000,000 Wei = 0.000000000001 ETH)
-# 'value' is the amount you pay to mint the token (in this case, 10 Finney = 0.01 ETH)
-
-# Get Gas Estimate
-value = w3.toWei('20', 'finney')
-gasEstimate = w3.eth.estimateGas({"to": towallet_address, "from": contractowner_address, "value": value})
-
-# Generate Transaction
+# Mint Button
 if st.button("Mint"):
-    cost = contract.functions.cost().call()
-    tx_hash = contract.functions.mint(int(mintAmount)).transact({"value": cost*mintAmount })
+
+    cost = contract.functions.cost().call()   
+    
+    transaction = {   
+        "from": contractowner_address,
+        "to": minter_address,
+        "gas": gasEstimate,
+        "maxFeePerGas": 3000000,
+        "value": cost*mintAmount,
+        "nonce": nonce
+    }
+
+    tx_hash = contract.functions.mint(int(mintAmount)).transact(transaction)
+
     receipt = w3.eth.waitForTransactionReceipt(tx_hash)
+    
     st.write("Transaction receipt mined:")
     st.write(dict(receipt))
 
