@@ -6,7 +6,7 @@ from pathlib import Path
 from dotenv import load_dotenv
 import streamlit as st
 # from bip44 import Wallet
-from web3.gas_strategies.time_based import fast_gas_price_strategy
+from web3.gas_strategies.time_based import medium_gas_price_strategy
 from web3.middleware import geth_poa_middleware
 # from web3.middleware import construct_sign_and_send_raw_middleware
 
@@ -93,7 +93,9 @@ contractowner_private_key = os.getenv("METAMASK_ACCOUNT2_PRIVATE_KEY")
 # Build the transaction
 # Get Gas Estimate
 value = w3.toWei(0.02,'ether')
-w3.eth.setGasPriceStrategy(fast_gas_price_strategy)
+w3.eth.setGasPriceStrategy(medium_gas_price_strategy)
+# gasEstimate = w3.eth.estimateGas({"to": minter_address, "from": "0x6B85da1376Dfd43c078585FeFf4a8F2f7881e106", "value": value*mintAmount})
+# print(gasEstimate)
 
 # Get the nonce
 nonce = w3.eth.get_transaction_count(contractowner_address)
@@ -108,14 +110,12 @@ w3.middleware_onion.inject(geth_poa_middleware, layer=0)
 if st.button("Mint"):
     
     transaction = {
-        
         "from": contractowner_address,   
-        "gas": 1000000,
+        "gas": 3000000,
         "gasPrice": w3.eth.generate_gas_price(),
-        "value": value*mintAmount + 21000,
+        "value": value*mintAmount,
         "nonce": nonce
     }
-
 
     # txn_hash = contract.functions.mint(mintAmount).transact(transaction)
     transaction_build = contract.functions.mint(mintAmount).buildTransaction(transaction)
@@ -125,7 +125,6 @@ if st.button("Mint"):
     
     st.write("Transaction receipt mined:")
     st.write(dict(txn_receipt))
-
 
 
 # Hide Streamlit Style
