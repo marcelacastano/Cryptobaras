@@ -8,7 +8,7 @@ import streamlit as st
 # from bip44 import Wallet
 from web3.gas_strategies.time_based import medium_gas_price_strategy
 from web3.middleware import geth_poa_middleware
-# from web3.middleware import construct_sign_and_send_raw_middleware
+
 
 load_dotenv()
 
@@ -94,8 +94,6 @@ contractowner_private_key = os.getenv("METAMASK_ACCOUNT2_PRIVATE_KEY")
 # Get Gas Estimate
 value = w3.toWei(0.02,'ether')
 w3.eth.setGasPriceStrategy(medium_gas_price_strategy)
-# gasEstimate = w3.eth.estimateGas({"to": minter_address, "from": "0x6B85da1376Dfd43c078585FeFf4a8F2f7881e106", "value": value*mintAmount})
-# print(gasEstimate)
 
 # Get the nonce
 nonce = w3.eth.get_transaction_count(contractowner_address)
@@ -103,8 +101,7 @@ print("Nonce:", nonce)
 
 # Middleware
 w3.middleware_onion.inject(geth_poa_middleware, layer=0)
-# w3.middleware_onion.add(construct_sign_and_send_raw_middleware(contractowner_private_key))
-# self.web3.middleware_stack.inject(geth_poa_middleware, layer=0)
+
 
 # Mint Button
 if st.button("Mint"):
