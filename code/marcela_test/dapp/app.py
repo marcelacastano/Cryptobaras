@@ -6,7 +6,7 @@ from pathlib import Path
 from dotenv import load_dotenv
 import streamlit as st
 # from bip44 import Wallet
-# from web3.gas_strategies.time_based import fast_gas_price_strategy
+from web3.gas_strategies.time_based import fast_gas_price_strategy
 from web3.middleware import geth_poa_middleware
 # from web3.middleware import construct_sign_and_send_raw_middleware
 
@@ -80,6 +80,7 @@ if st.button("Cost"):
 # Make a transaction
 st.markdown("## Mint Your Own CryptoBara!")
 mintAmount = st.number_input("You Can Mint Up to 5 CryptoBaras", max_value=5, min_value=1)
+print(mintAmount)
 
 # Enter the purchaser's (To) wallet address
 minter_address = st.text_input("Enter Rinkeby Address")
@@ -92,8 +93,7 @@ contractowner_private_key = os.getenv("METAMASK_ACCOUNT2_PRIVATE_KEY")
 # Build the transaction
 # Get Gas Estimate
 value = w3.toWei(0.02,'ether')
-# w3.eth.setGasPriceStrategy(fast_gas_price_strategy)
-# gasEstimate = w3.eth.estimateGas({"to": minter_address, "from": contractowner_address, "value": value})
+w3.eth.setGasPriceStrategy(fast_gas_price_strategy)
 
 # Get the nonce
 nonce = w3.eth.get_transaction_count(contractowner_address)
@@ -108,23 +108,20 @@ w3.middleware_onion.inject(geth_poa_middleware, layer=0)
 if st.button("Mint"):
     
     transaction = {
-        # 'type': '0x2',
+        
         "from": contractowner_address,   
-        # "to": minter_address, #error:  Cannot set 'to' field in contract call build transaction
         "gas": 1000000,
-        # "gasPrice": w3.toWei(20, 'gwei'),
-        # "maxFeePerGas": 3000000, #error: Transaction must not include unrecognized fields: {'maxFeePerGas'}
-        "value": value*mintAmount,
-        # "nonce": nonce
+        "gasPrice": w3.eth.generate_gas_price(),
+        "value": value*mintAmount + 21000,
+        "nonce": nonce
     }
 
 
     # txn_hash = contract.functions.mint(mintAmount).transact(transaction)
-
     transaction_build = contract.functions.mint(mintAmount).buildTransaction(transaction)
-    signed_tx = w3.eth.account.sign_transaction(transaction, contractowner_private_key)
-    txn_hash = w3.eth.send_raw_transaction(signed_tx.rawTransaction)
-    txn_receipt = w3.eth.wait_for_transaction_receipt(txn_hash)
+    signed_tx = w3.eth.account.sign_transaction(transaction_build, contractowner_private_key)
+    txn_raw = w3.eth.send_raw_transaction(signed_tx.rawTransaction)
+    txn_receipt = w3.eth.wait_for_transaction_receipt(txn_raw)
     
     st.write("Transaction receipt mined:")
     st.write(dict(txn_receipt))
