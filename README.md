@@ -1,7 +1,7 @@
 <h1 align="center">NFT - Digital Art</h1>
 
 <p align="center">
-  <img width="1000" height="800" src="https://user-images.githubusercontent.com/78571802/154812018-2119ef56-643d-4372-84b0-219848b5c279.png">
+  <img width="1000" height="700" src="https://user-images.githubusercontent.com/78571802/154812018-2119ef56-643d-4372-84b0-219848b5c279.png">
 </p>
 
 In this project, we showcase our journey from creating our NFT idea to the full minting and deployment of our smart contract and Dapp.
@@ -70,6 +70,11 @@ const layerConfigurations = [
 ];
 ```
 We mixed up the `layerConfigurations` order on how the images are saved by setting the variable `shuffleLayerConfigurations` in the `config.js` file to true. 
+This meant that the images would be saved in a shuffle order.
+
+<p align="center">
+  <img width="1000" height="400" src="https://user-images.githubusercontent.com/78571802/154820397-f0c3df48-cfd8-4f35-ac67-abdab8b4c907.png">
+</p>
 
 ## Build
 The images to be created were outputted to the `build/images` directory and the json in the `build/json` directory:
@@ -78,15 +83,13 @@ The images to be created were outputted to the `build/images` directory and the 
 node index.js
 ```
 
-The program will output all the images in the `build/images` directory along with the metadata files in the `build/json` directory. 
+The program will output all the images in the `build/images` directory along with the metadata files in the `build/json` directory. Each collection will have a `_metadata.json` file that consists of all the metadata in the collection inside the `build/json` directory. 
 
-![Screen Shot 2022-02-19 at 4 34 59 PM](https://user-images.githubusercontent.com/78571802/154820082-1ad37167-2b6a-4ad0-b46a-dd08b422b11b.png)
+<p align="center">
+  <img width="1000" height="700" src="https://user-images.githubusercontent.com/78571802/154820290-c4372a19-af6e-492b-8f41-63a4950b490b.png">
+</p>
 
-![Screen Shot 2022-02-19 at 4 35 47 PM](https://user-images.githubusercontent.com/78571802/154820088-2e9a08ac-bd99-4f94-8fd5-34c18e07777f.png)
-
-Each collection will have a `_metadata.json` file that consists of all the metadata in the collection inside the `build/json` directory. The `build/json` folder also will contain all the single json files that represent each image file. The single json file of a image looks like this:
-
-
+The `build/json` folder also will contain all the single json files that represent each image file. The single json file of a image looks like this:
 ```json
 {
   "name": "Cryptobaras #1",
