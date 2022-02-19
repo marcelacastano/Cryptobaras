@@ -1,8 +1,9 @@
-# NFT Collection Creation 
+<h1 align="center">NFT Collection Creation</h1>
 
-![nft_pic](https://user-images.githubusercontent.com/78571802/154198732-8838709e-fabf-4d81-b23d-cf752b99f677.jpeg)
+![nft_pic](https://user-images.githubusercontent.com/78571802/154805134-f0a4a604-549e-4f94-8863-dbdaad945e80.jpeg)
 
-## The source code for nft creation:
+## The source code for nft creation
+
 ``` sh
 https://github.com/HashLips/hashlips_art_engine/blob/main/src/config.js
 ```
