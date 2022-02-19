@@ -1,6 +1,6 @@
 <h1 align="center">NFT Collection Creation</h1>
 
-![nft_pic](https://user-images.githubusercontent.com/78571802/154805134-f0a4a604-549e-4f94-8863-dbdaad945e80.jpeg)
+![nft_pic](https://user-images.githubusercontent.com/78571802/154805565-566552a1-5a03-4ec8-9bd9-54cc9d30fab0.png)
 
 ## The source code for nft creation
 
