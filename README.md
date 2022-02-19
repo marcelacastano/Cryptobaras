@@ -108,13 +108,14 @@ const description = "To Be Or Not To Be A CryptoBara";
 const baseUri = "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk"
 ```
 
-### Generate a preview image
+### Generate a preview image!
+
 Create a preview image collage of your collection, run:
 ```sh
 npm run preview
 ```
 <p align="center">
-  <img width="300" height="1000" src="https://user-images.githubusercontent.com/78571802/154199679-34e9871f-6900-412f-92fd-c5c13633b6b8.png">
+  <img width="1000" height="500" src="https://user-images.githubusercontent.com/78571802/154804730-d64e30d5-3760-436e-83e1-b2cc989acace.png">
 </p>
 
 ### Generate GIF images from collection
