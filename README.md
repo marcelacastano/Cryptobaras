@@ -1,7 +1,8 @@
-NFT - Digital Art
+<h1 align="center">NFT - Digital Art</h1>
+
 ![nft_pic_](https://user-images.githubusercontent.com/78571802/154812018-2119ef56-643d-4372-84b0-219848b5c279.png)
 
-NFTs (Non Fungible Tokens) *put paragraph here*
+{put info about overview and NFT here]
 
 <h1 align="center">✨✨The Cryptobara Collection✨✨</h1>
 
