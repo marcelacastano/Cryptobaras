@@ -201,12 +201,17 @@ We used Pinata to host and upload our images; here we obtained the images' CID
 
 ![Screen Shot 2022-02-16 at 12 13 20 AM](https://user-images.githubusercontent.com/78571802/154200646-e71212bf-0639-4138-bba1-be1ced303e24.png)
 
+
+# Creation of Smart Contract
+   
 ## Open Zeppelin Imports
 ```sh
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/ERC721.sol";
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/extensions/ERC721Enumerable.sol";
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/access/Ownable.sol";
 ```
+## Smart Contract
+
 
 ## Contract on Rinkeby Network
 ![Screen Shot 2022-02-16 at 12 21 00 AM](https://user-images.githubusercontent.com/78571802/154201646-77b48027-2d23-42cb-a850-d87abcc71676.png)
