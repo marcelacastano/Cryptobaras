@@ -27,11 +27,17 @@ The different layers were created and named as folders in the 'layers' directory
 The assets were named with a rarity weight attached in the file name like so: `greenn_bg#10.png`. Where the variable, `rarityDelimiter`, is denoted by the delimiter `#`
 The layer assets labeled with `#10` (for regular), `#5` (for rare assets), and `#2` (for super rare).
 
-![Screen Shot 2022-02-19 at 9 53 22 AM](https://user-images.githubusercontent.com/78571802/154806236-371db3a3-288f-48f8-b84d-8cbfcc7a3e11.png)
+<p align="center">
+  <img width="200" height="200" src="https://user-images.githubusercontent.com/78571802/154806236-371db3a3-288f-48f8-b84d-8cbfcc7a3e11.png">
+</p>
 
-![Screen Shot 2022-02-19 at 9 53 44 AM](https://user-images.githubusercontent.com/78571802/154806244-9dfacc2f-d273-4b5f-9c38-3e9038abdd24.png)
+<p align="center">
+  <img width="200" height="200" src="https://user-images.githubusercontent.com/78571802/154806244-9dfacc2f-d273-4b5f-9c38-3e9038abdd24.png">
+</p>
 
-![Screen Shot 2022-02-19 at 9 53 55 AM](https://user-images.githubusercontent.com/78571802/154806251-17a080bf-3ac4-4063-982a-41bcac0f57d9.png)
+<p align="center">
+  <img width="250" height="250" src="https://user-images.githubusercontent.com/78571802/154806251-17a080bf-3ac4-4063-982a-41bcac0f57d9.png">
+</p>
 
 ## Layer Configurations
 Multiple different `layerConfigurations` were added to the collection. 
