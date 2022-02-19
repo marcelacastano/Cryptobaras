@@ -80,7 +80,9 @@ node index.js
 
 The program will output all the images in the `build/images` directory along with the metadata files in the `build/json` directory. 
 
+![Screen Shot 2022-02-19 at 4 34 59 PM](https://user-images.githubusercontent.com/78571802/154820082-1ad37167-2b6a-4ad0-b46a-dd08b422b11b.png)
 
+![Screen Shot 2022-02-19 at 4 35 47 PM](https://user-images.githubusercontent.com/78571802/154820088-2e9a08ac-bd99-4f94-8fd5-34c18e07777f.png)
 
 Each collection will have a `_metadata.json` file that consists of all the metadata in the collection inside the `build/json` directory. The `build/json` folder also will contain all the single json files that represent each image file. The single json file of a image looks like this:
 
