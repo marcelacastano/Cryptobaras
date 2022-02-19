@@ -1,6 +1,8 @@
 <h1 align="center">NFT - Digital Art</h1>
 
-![nft_pic_](https://user-images.githubusercontent.com/78571802/154812018-2119ef56-643d-4372-84b0-219848b5c279.png)
+<p align="center">
+  <img width="1000" height="800" src="https://user-images.githubusercontent.com/78571802/154812018-2119ef56-643d-4372-84b0-219848b5c279.png">
+</p>
 
 {put info about overview and NFT here]
 
@@ -17,7 +19,7 @@ v16.14.0 # version installed
 ```
 
 ## Layers Created:
-The different layers were created and named as folders in the 'layers' directory. All the layer assets were included. 
+We developed our concept and determined how many layers we added to our capybara. Then, we utilized canva.com to design the layers and format them appropriately. Next, the different layers were created and named as folders in the 'layers' directory. Finally, we included all the layer assets. 
 
 ## Layers added:
 ``` sh
@@ -30,19 +32,7 @@ The assets were named with a rarity weight attached in the file name like so: `g
 The layer assets labeled with `#10` (for regular), `#5` (for rare assets), and `#2` (for super rare).
 
 <p align="center">
-  <img width="200" height="200" src="https://user-images.githubusercontent.com/78571802/154806236-371db3a3-288f-48f8-b84d-8cbfcc7a3e11.png">
-</p>
-
-<p align="center">
-  <img width="200" height="200" src="https://user-images.githubusercontent.com/78571802/154806244-9dfacc2f-d273-4b5f-9c38-3e9038abdd24.png">
-</p>
-
-<p align="center">
-  <img width="250" height="250" src="https://user-images.githubusercontent.com/78571802/154806251-17a080bf-3ac4-4063-982a-41bcac0f57d9.png">
-</p>
-
-<p align="center">
-  <img width="250" height="500" src="https://user-images.githubusercontent.com/78571802/154807015-48420c5c-3f86-4640-8e9d-d5e94d71bffd.png">
+  <img width="1000" height="700" src="https://user-images.githubusercontent.com/78571802/154819392-b3d478ea-14cf-4655-a8d1-f7680734b97f.png">
 </p>
 
 ## Layer Configurations
