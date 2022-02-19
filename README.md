@@ -1,4 +1,9 @@
-<h1 align="center">✨✨The Cryptobara Creation✨✨</h1>
+NFT - Digital Art
+![nft_pic_](https://user-images.githubusercontent.com/78571802/154812018-2119ef56-643d-4372-84b0-219848b5c279.png)
+
+NFTs (Non Fungible Tokens) *put paragraph here*
+
+<h1 align="center">✨✨The Cryptobara Collection✨✨</h1>
 
 ![preview](https://user-images.githubusercontent.com/78571802/154811191-6f7aa3cb-5dd7-4927-8b89-b02a54e77ebc.png)
 
