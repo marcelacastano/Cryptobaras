@@ -130,8 +130,9 @@ const gif = {
   delay: 500,
 };
 ```
-![preview](https://user-images.githubusercontent.com/78571802/154199809-dd13384c-8ae4-4c1f-a687-fa89d9217263.gif)
-
+<p align="center">
+  <img width="1000" height="800" src="https://user-images.githubusercontent.com/78571802/154199809-dd13384c-8ae4-4c1f-a687-fa89d9217263.gif">
+</p>
 ### Printing rarity data (Experimental feature)
 
 To see the percentages of each attribute across the collection, run:
