@@ -4,10 +4,6 @@
 
 {put info about overview and NFT here]
 
-<h1 align="center">✨✨The Cryptobara Collection✨✨</h1>
-
-![preview](https://user-images.githubusercontent.com/78571802/154811191-6f7aa3cb-5dd7-4927-8b89-b02a54e77ebc.png)
-
 ## The source code for nft creation:
 
 ``` sh
@@ -214,4 +210,6 @@ import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contr
 ## Minted Collection on Opensea Testnet
 ![Screen Shot 2022-02-16 at 12 22 55 AM](https://user-images.githubusercontent.com/78571802/154201705-7686d1d3-f17a-4c64-b833-7d8ec0bc7215.png)
 
+<h1 align="center">✨✨The Cryptobara Collection✨✨</h1>
 
+![preview](https://user-images.githubusercontent.com/78571802/154811191-6f7aa3cb-5dd7-4927-8b89-b02a54e77ebc.png)
