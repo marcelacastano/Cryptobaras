@@ -1,4 +1,4 @@
-<h1 align="center">NFT Collection Creation</h1>
+<h1 align="center">✨✨NFT Collection Creation✨✨</h1>
 
 ![nft_pic](https://user-images.githubusercontent.com/78571802/154805565-566552a1-5a03-4ec8-9bd9-54cc9d30fab0.png)
 
