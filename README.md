@@ -1,6 +1,6 @@
-<h1 align="center">✨✨NFT Collection Creation✨✨</h1>
+<h1 align="center">✨✨The Cryptobara Creation✨✨</h1>
 
-![nft_pic](https://user-images.githubusercontent.com/78571802/154805565-566552a1-5a03-4ec8-9bd9-54cc9d30fab0.png)
+![preview](https://user-images.githubusercontent.com/78571802/154811191-6f7aa3cb-5dd7-4927-8b89-b02a54e77ebc.png)
 
 ## The source code for nft creation:
 
