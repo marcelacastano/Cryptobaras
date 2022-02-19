@@ -4,7 +4,7 @@
   <img width="1000" height="800" src="https://user-images.githubusercontent.com/78571802/154812018-2119ef56-643d-4372-84b0-219848b5c279.png">
 </p>
 
-{put info about overview and NFT here]
+In this project, we showcase our journey from creating our NFT idea to the full minting and deployment of our smart contract and Dapp.
 
 ## The source code for nft creation:
 
@@ -78,7 +78,12 @@ The images to be created were outputted to the `build/images` directory and the 
 node index.js
 ```
 
-The program will output all the images in the `build/images` directory along with the metadata files in the `build/json` directory. Each collection will have a `_metadata.json` file that consists of all the metadata in the collection inside the `build/json` directory. The `build/json` folder also will contain all the single json files that represent each image file. The single json file of a image looks like this:
+The program will output all the images in the `build/images` directory along with the metadata files in the `build/json` directory. 
+
+
+
+Each collection will have a `_metadata.json` file that consists of all the metadata in the collection inside the `build/json` directory. The `build/json` folder also will contain all the single json files that represent each image file. The single json file of a image looks like this:
+
 
 ```json
 {
