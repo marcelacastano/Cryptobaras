@@ -192,6 +192,9 @@ node utils/pixelate.js
 
 ### Here is a pixelated image
 
+![1](https://user-images.githubusercontent.com/78571802/154820995-17ee3e3b-34bf-4cb4-8cde-45f428f177cc.png)
+
+
 
 The images folder was then uploaded to ![pinata](https://user-images.githubusercontent.com/78571802/154200040-ed70f0aa-9aad-4c77-99d2-7e4a721f9f23.png)
 We used Pinata to host and upload our images; here we obtained the images' CID
