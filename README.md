@@ -120,6 +120,8 @@ The `build/json` folder also will contain all the single json files that represe
 }
 ```
 ## General Metadata
+Metadata is particularly important in creating NFTs. It is the image’s information - it contains information such as the name, description, image IPSF, DNA, edition attributes, etc. This information will be displayed on OpenSea attributes.
+
 ```js
 // General metadata for Ethereum
 const namePrefix = "CryptoBara_TestRun";
@@ -152,49 +154,48 @@ const gif = {
 <p align="center">
   <img width="1000" height="800" src="https://user-images.githubusercontent.com/78571802/154199809-dd13384c-8ae4-4c1f-a687-fa89d9217263.gif">
 </p>
-### Printing rarity data (Experimental feature)
 
+## Printing rarity data (Experimental feature)
 To see the percentages of each attribute across the collection, run:
 ```sh
 npm run rarity
 ```
 
-The output looks like this:
+For example, the red glasses has a weight of #10, tricolor glasses has a weight of #2 (which makes them super rare), and the yellow shades has a weight of #5 (which makes them rate). The output looks like this:
 
 ```sh
-Trait type: Backgrounds
+...
+Trait type: Glasses
 {
-  trait: 'cyan_bg',
-  weight: '10',
-  occurrence: '11 in 100 editions (11.00 %)'
-}
-{
-  trait: 'green_bg',
-  weight: '10',
-  occurrence: '15 in 100 editions (15.00 %)'
-}
-{
-  trait: 'grey_bg',
+  trait: 'red_frame',
   weight: '10',
   occurrence: '19 in 100 editions (19.00 %)'
 }
 {
-  trait: 'orange_bg',
-  weight: '10',
-  occurrence: '21 in 100 editions (21.00 %)'
+  trait: 'tricolor_glasses_sr',
+  weight: '2',
+  occurrence: '2 in 100 editions (2.00 %)'
 }
 {
-  trait: 'pink_bg',
-  weight: '10',
-  occurrence: '20 in 100 editions (20.00 %)'
+  trait: 'yellow_shades_r',
+  weight: '5',
+  occurrence: '5 in 100 editions (5.00 %)'
 }
-{
-  trait: 'yellow_bg',
-  weight: '10',
-  occurrence: '14 in 100 editions (14.00 %)'
-}
+...
 ```
-The images folder was uploaded to ![pinata](https://user-images.githubusercontent.com/78571802/154200040-ed70f0aa-9aad-4c77-99d2-7e4a721f9f23.png)
+## Pixelated Images
+Pixelate.js will take your current images and pixalate them, by running the code below. The pixalated images are stored in a new images folder.
+
+```sh
+node utils/pixelate.js
+```
+
+### Here is a pixelated image
+
+
+The images folder was then uploaded to ![pinata](https://user-images.githubusercontent.com/78571802/154200040-ed70f0aa-9aad-4c77-99d2-7e4a721f9f23.png)
+We used Pinata to host and upload our images; here we obtained the images' CID
+
 ![Screen Shot 2022-02-16 at 12 13 20 AM](https://user-images.githubusercontent.com/78571802/154200646-e71212bf-0639-4138-bba1-be1ced303e24.png)
 
 ## Open Zeppelin Imports
