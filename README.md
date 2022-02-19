@@ -24,7 +24,7 @@ The different layers were created and named as folders in the 'layers' directory
 - Glasses
 - Hats
 ```
-The assets were named with a rarity weight attached in the file name like so: `greenn_bg#10.png`. Where the variable, `rarityDelimiter`, is denoted by the delimiter `#`
+The assets were named with a rarity weight attached in the file name like so: `green_bg#10.png`. Where the variable, `rarityDelimiter`, is denoted by the delimiter `#`
 The layer assets labeled with `#10` (for regular), `#5` (for rare assets), and `#2` (for super rare).
 
 <p align="center">
@@ -37,6 +37,10 @@ The layer assets labeled with `#10` (for regular), `#5` (for rare assets), and `
 
 <p align="center">
   <img width="250" height="250" src="https://user-images.githubusercontent.com/78571802/154806251-17a080bf-3ac4-4063-982a-41bcac0f57d9.png">
+</p>
+
+<p align="center">
+  <img width="250" height="500" src="https://user-images.githubusercontent.com/78571802/154807015-48420c5c-3f86-4640-8e9d-d5e94d71bffd.png">
 </p>
 
 ## Layer Configurations
