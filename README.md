@@ -211,6 +211,7 @@ import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contr
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/access/Ownable.sol";
 ```
 ## Smart Contract
+https://user-images.githubusercontent.com/78571802/154874735-aa8fdfa1-7019-4938-96a6-0c9f4b461b89.mov
 
 
 ## Dapp Code
