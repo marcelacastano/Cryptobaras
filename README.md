@@ -266,7 +266,7 @@ import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contr
 
 https://user-images.githubusercontent.com/78571802/154873863-e78323f3-f775-488e-bdd0-368490172596.mov
 
-We created a user-friendly interface to interact with the contract. Here's the [source code](Code/dapp/app.py) for our application. In this web app, the user is able to:
+We created a [user-friendly interface](Code/dapp/app.py) to interact with the contract. In this web app, the user is able to:
 
 ```
 - Check Available CryptoBaras for minting
