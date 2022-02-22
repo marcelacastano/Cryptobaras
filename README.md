@@ -6,29 +6,52 @@
 
 In this project, we showcase our journey from creating our NFT idea to the full minting and deployment of our smart contract and Dapp.
 
-## The source code for nft creation:
+- Source code:
+
+- Deployed  App:
+
+- Open Sea Collection: 
+
+
+# Art Generation
+
+## Source Code
+
+We generated 100 unique CryptoBaras using the [HashLips](https://github.com/HashLips) art-generator:
 
 ``` sh
 https://github.com/HashLips/hashlips_art_engine/blob/main/src/config.js
 ```
 
-## The latest version of node installed:
+## Installations
+
+Install the latest version of node:
+
 ``` sh
 node -v  # To check node js version
 v16.14.0 # version installed
 ```
 
-## Layers Created:
-We developed our concept and determined how many layers we added to our capybara. Then, we utilized canva.com to design the layers and format them appropriately. Next, the different layers were created and named as folders in the 'layers' directory. Finally, we included all the layer assets. 
+## Layers
 
-## Layers added:
+We developed our concept around capybaras utilizing free icons from canva.com.
+
+Read more on the [Canva License Agreement](https://www.canva.com/policies/free-media-license-agreement-2022-01-03/).
+
+Once we had all our icons, we generated individual layers for each character and prop using Photoshop. Take a look at the [psd file](Photoshop/capybara-layers.psd).
+
+## Rarities
+
+The following layers were used in our concept:
+
 ``` sh
 - Backgrounds
 - Faces
 - Glasses
 - Hats
 ```
-The assets were named with a rarity weight attached in the file name like so: `green_bg#10.png`. Where the variable, `rarityDelimiter`, is denoted by the delimiter `#`
+
+The rarity weight was attached in the file name for each asset, as such: `green_bg#10.png`. Where the variable, `rarityDelimiter`, is denoted by the delimiter `#`
 The layer assets labeled with `#10` (for regular), `#5` (for rare assets), and `#2` (for super rare).
 
 <p align="center">
@@ -36,47 +59,55 @@ The layer assets labeled with `#10` (for regular), `#5` (for rare assets), and `
 </p>
 
 ## Layer Configurations
-Multiple different `layerConfigurations` were added to the collection. 
+
+Multiple `layerConfigurations` were added to the collection. The different configurations yield added rarities to some of the prop/character combinations.
+
 ```js
 const layerConfigurations = [
   {
-    // Creates up to 60 artworks
-    growEditionSizeTo: 60,
+    growEditionSizeTo: 10,
     layersOrder: [
       { name: "Backgrounds" },
       { name: "Faces" },
       { name: "Glasses" },
+    ],
+  },
+  {
+    growEditionSizeTo: 20,
+    layersOrder: [
+      { name: "Backgrounds" },
+      { name: "Faces" },
       { name: "Hats" },
     ],
   },
   {
-    // Creates an additional 20 artworks with hats omitted
-    growEditionSizeTo: 80,
+    growEditionSizeTo: 40,
     layersOrder: [
       { name: "Backgrounds" },
       { name: "Faces" },
-      { name: "Glasses" },
     ],
   },
   {
-    // Creates an additional 20 artworks with glasses omitted
     growEditionSizeTo: 100,
     layersOrder: [
       { name: "Backgrounds" },
       { name: "Faces" },
-      { name: "Hats" },
+      { name: "Glasses" },
+      { name: "Hats" }
     ],
-  },
+  }
 ];
 ```
-We mixed up the `layerConfigurations` order on how the images are saved by setting the variable `shuffleLayerConfigurations` in the `config.js` file to true. 
-This meant that the images would be saved in a shuffle order.
+
+We also mixed up the `layerConfigurations` order on how the images are saved by setting the variable `shuffleLayerConfigurations` in the `config.js` file to true.
+Because of this, the images are saved in a shuffle order. This means that when minting, one would not be able predict what combination of props might result based on the number of already minted CryptoBars.
 
 <p align="center">
   <img width="1000" height="400" src="https://user-images.githubusercontent.com/78571802/154820397-f0c3df48-cfd8-4f35-ac67-abdab8b4c907.png">
 </p>
 
 ## Build
+
 The images to be created were outputted to the `build/images` directory and the json in the `build/json` directory:
 
 ```sh
@@ -90,6 +121,7 @@ The program will output all the images in the `build/images` directory along wit
 </p>
 
 The `build/json` folder also will contain all the single json files that represent each image file. The single json file of a image looks like this:
+
 ```json
 {
   "name": "Cryptobaras #1",
@@ -119,8 +151,10 @@ The `build/json` folder also will contain all the single json files that represe
   "compiler": "HashLips Art Engine"
 }
 ```
+
 ## General Metadata
-Metadata is particularly important in creating NFTs. It is the image’s information - it contains information such as the name, description, image IPSF, DNA, edition attributes, etc. This information will be displayed on OpenSea attributes.
+
+Metadata is particularly important in creating NFTs. It is the image’s information - it contains information such as the name, description, image IPFS, DNA, edition attributes, etc. This information will be displayed on OpenSea attributes.
 
 ```js
 // General metadata for Ethereum
@@ -129,20 +163,23 @@ const description = "To Be Or Not To Be A CryptoBara";
 const baseUri = "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk"
 ```
 
-### Generate a preview image!
+### Generate a preview image
 
 Create a preview image collage of your collection, run:
+
 ```sh
 npm run preview
 ```
+
 <p align="center">
   <img width="1000" height="500" src="https://user-images.githubusercontent.com/78571802/154804730-d64e30d5-3760-436e-83e1-b2cc989acace.png">
 </p>
 
 ### Generate GIF images from collection
 
-In order to export gifs based on the layers created, we set the export on the `gif` object in the `src/config.js` file to `true`. 
+In order to export gifs based on the layers created, we set the export on the `gif` object in the `src/config.js` file to `true`.
 Setting the `repeat: -1` will produces a one time render and `repeat: 0` produces loop forever.
+
 ```js
 const gif = {
   export: true,
@@ -151,12 +188,15 @@ const gif = {
   delay: 500,
 };
 ```
+
 <p align="center">
   <img width="1000" height="800" src="https://user-images.githubusercontent.com/78571802/154199809-dd13384c-8ae4-4c1f-a687-fa89d9217263.gif">
 </p>
 
 ## Printing rarity data (Experimental feature)
+
 To see the percentages of each attribute across the collection, run:
+
 ```sh
 npm run rarity
 ```
@@ -183,41 +223,65 @@ Trait type: Glasses
 }
 ...
 ```
+
 ## Pixelated Images
+
 Pixelate.js will take your current images and pixalate them, by running the code below. The pixalated images are stored in a new images folder.
 
 ```sh
 node utils/pixelate.js
 ```
 
-### Here is a pixelated image
+Here's a sample:
 
 ![1](https://user-images.githubusercontent.com/78571802/154820995-17ee3e3b-34bf-4cb4-8cde-45f428f177cc.png)
 
 
+# Media Management
 
-The images folder was then uploaded to ![pinata](https://user-images.githubusercontent.com/78571802/154200040-ed70f0aa-9aad-4c77-99d2-7e4a721f9f23.png)
-We used Pinata to host and upload our images; here we obtained the images' CID
+The images folder was uploaded to [Pinata](https://www.pinata.cloud/).
+
+![pinata](https://user-images.githubusercontent.com/78571802/154200040-ed70f0aa-9aad-4c77-99d2-7e4a721f9f23.png)
+
+We used Pinata to host and upload our images and obtain their CID.
 
 ![Screen Shot 2022-02-16 at 12 13 20 AM](https://user-images.githubusercontent.com/78571802/154200646-e71212bf-0639-4138-bba1-be1ced303e24.png)
 
 
-# Creation of Smart Contract
+# Smart Contract
    
+Check out our [Solidity Contract](Code/dapp/TestContractMarcela.sol).
+
+https://user-images.githubusercontent.com/78571802/154875417-5b312d2a-9862-4e02-869b-00d95a132886.mov
+
 ## Open Zeppelin Imports
+
 ```sh
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/ERC721.sol";
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/extensions/ERC721Enumerable.sol";
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/access/Ownable.sol";
 ```
-## Smart Contract
-https://user-images.githubusercontent.com/78571802/154875417-5b312d2a-9862-4e02-869b-00d95a132886.mov
 
-## Dapp Code
-To run the Dapp Code
+# Decentralized Application
+
+We created a user-friendly interface to interact with the contract. Here's the [source code](Code/dapp/app.py) for our application. In this web app, the user is able to:
+
+![Dapp]()
+
+```
+- Check Available CryptoBaras for minting
+- Retrieve the cost of a CryptoBara
+- Mint
+- Retrieve TokenIDs
+- Get Metadata for a TokenID
+```
+
+Clone this repository and run our Dapp with the following command:
+
 ```sh
 streamlit run app.py
 ```
+
 https://user-images.githubusercontent.com/78571802/154873863-e78323f3-f775-488e-bdd0-368490172596.mov
 
 
