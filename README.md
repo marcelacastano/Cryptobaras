@@ -214,6 +214,10 @@ import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contr
 https://user-images.githubusercontent.com/78571802/154875417-5b312d2a-9862-4e02-869b-00d95a132886.mov
 
 ## Dapp Code
+To run the Dapp Code
+```sh
+streamlit run app.py
+```
 https://user-images.githubusercontent.com/78571802/154873863-e78323f3-f775-488e-bdd0-368490172596.mov
 
 
