@@ -1,6 +1,6 @@
 # Imports
 ##################################################################################
-from decimal import Decimal
+import time
 import os
 import json
 from web3 import Web3
@@ -10,7 +10,7 @@ import streamlit as st
 from datetime import datetime
 from web3.gas_strategies.time_based import medium_gas_price_strategy
 from web3.middleware import geth_poa_middleware
-
+from pinata import pin_file_to_ipfs, pin_json_to_ipfs, convert_data_to_json
 
 # Initial Configurations
 #################################################################################
@@ -59,8 +59,8 @@ contract = load_contract()
 ################################################################################
 
 # Set title
-original_title = '<p style="font-family:Fantasy; color:Blue; font-size: 20px;">CryptoBars Minter</p>'
-st.markdown(original_title, unsafe_allow_html=True)
+title = '<h1 style="font-family:Freestyle Script; font-size: 130px;"><center>CryptoBaras Minter</center></p>'
+st.markdown(title, unsafe_allow_html=True)
 
 # Set page banner
 st.image('images/preview.gif')
@@ -76,25 +76,27 @@ if st.button("Check Available"):
     total_supply = contract.functions.totalSupply().call()
     token_list = st.write(100-total_supply)
 
-st.markdown("## How Much does a CryptoBara Cost?")
-st.markdown("Click on Cost to retrieve the price of a CryptoBara in **Wei**:")
+st.markdown("## How Much Does a CryptoBara Cost?")
+st.markdown("Click on **Cost** to retrieve the price of a CryptoBara in **Wei**:")
 
 if st.button("Cost"):
     cost = contract.functions.cost().call()
     st.write(cost)
 
+st.markdown("---")
+
 # Make a transaction
 ###########################
 
-st.markdown("## Mint Your Own CryptoBara!")
-mintAmount = st.number_input("You Can Mint Up to 5 CryptoBaras", max_value=5, min_value=1)
+st.markdown("## Mint Your Own CryptoBara")
+mintAmount = 1
 
 # Enter the purchaser's (To) wallet address
 minter_address = st.text_input("Enter Rinkeby Address")
 
 # Enter contract owner's wallet address
-contractowner_address = os.getenv("CONTRACT_OWNER_ADDRESS")
-contractowner_private_key = os.getenv("CONTRACTOWNER_PRIVATE_KEY")
+contractowner_address = str(os.getenv("CONTRACT_OWNER_ADDRESS"))
+contractowner_private_key = os.getenv("CONTRACT_OWNER_PRIVATE_KEY")
 
 # Get Gas Estimate
 value = w3.toWei(0.02,'ether')
@@ -108,36 +110,71 @@ w3.middleware_onion.inject(geth_poa_middleware, layer=0)
 
 # Mint Button
 if st.button("Mint"):
+
+    # Show loading widget
+    with st.spinner(text='Wait for it...'):
     
-    value = value*mintAmount
-    if minter_address == contractowner_address:
-        value = 0
+        value = value*mintAmount
+        if minter_address == contractowner_address:
+            value = 0
 
-    print(datetime.now(), "Amount: ", mintAmount, " Nonce:", nonce, " Minting to wallet: ", minter_address)
+        print(datetime.now(), "Amount: ", mintAmount, " Nonce:", nonce, " Minting to wallet: ", minter_address)
 
-    transaction = {
-        "from": contractowner_address,
-        "gas": 3000000,
-        "gasPrice": w3.eth.generate_gas_price(),
-        "value": value,
-        "nonce": nonce
-    }
+        transaction = {
+            "from": contractowner_address,
+            "gas": 3000000,
+            "gasPrice": w3.eth.generate_gas_price(),
+            "value": value,
+            "nonce": nonce
+        }
 
-    # Build the transaction
-    transaction_build = contract.functions.mint(mintAmount, minter_address).buildTransaction(transaction)
-    print(datetime.now(), "transaction built")
+        # Build the transaction
+        transaction_build = contract.functions.mint(mintAmount, minter_address).buildTransaction(transaction)
+        print(datetime.now(), "transaction built")
 
-    signed_tx = w3.eth.account.sign_transaction(transaction_build, contractowner_private_key)
-    print(datetime.now(), "transaction signed")
+        # Sign transaction
+        signed_tx = w3.eth.account.sign_transaction(transaction_build, contractowner_private_key)
+        print(datetime.now(), "transaction signed")
 
-    txn_raw = w3.eth.send_raw_transaction(signed_tx.rawTransaction)
-    print(datetime.now(), "raw transaction sent")
+        # Send transaction
+        txn_raw = w3.eth.send_raw_transaction(signed_tx.rawTransaction)
+        print(datetime.now(), "raw transaction sent")
 
-    txn_receipt = w3.eth.wait_for_transaction_receipt(txn_raw)
-    print(dict(txn_receipt))
+        # Obtain transaction receipt
+        txn_receipt = w3.eth.wait_for_transaction_receipt(txn_raw)
+        print(dict(txn_receipt))
 
+    # Show receipt to user
+    st.success('Done')
+    st.balloons()
     st.write("Transaction receipt mined:")
     st.write(dict(txn_receipt))
+
+st.markdown("---")
+
+
+# See Token URI
+#########################
+
+st.markdown("## Take a Look at Your Tokens")
+
+st.markdown("Enter Owner Address and Hit the **Check Tokens** button to retrieve TokenIds for All of Your CryptoBaras:")
+
+minter_address = st.text_input("Owner Address")
+
+if st.button("Check Tokens"):
+    tokens_by_owner = contract.functions.walletOfOwner(minter_address).call()
+    st.write("Tokens You Own:", tokens_by_owner)
+
+
+see_token = st.text_input("Enter TokenID You'd Like to See:")
+
+if st.button("Get Metadata"):
+    token_uri = contract.functions.tokenURI(int(see_token)).call()
+    ipfs_hash = token_uri[7:]
+    print(ipfs_hash)
+    st.markdown(f"Go to: [IPFS Gateway Link](https://ipfs.io/ipfs/{ipfs_hash})")
+
 
 
 # Hide Streamlit Style
