@@ -1,0 +1,27 @@
+{
+  "name": "Cryptobaras #3",
+  "description": "To Be Or Not To Be Cryptobara",
+  "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/3.png",
+  "dna": "7250865227ea91f4c5cb3cb298c6b6c62c212353",
+  "edition": 3,
+  "date": 1644980716473,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "grey_bg"
+    },
+    {
+      "trait_type": "Faces",
+      "value": "brown_capy"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "red_frame"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "chef_hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
