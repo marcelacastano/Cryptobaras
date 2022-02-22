@@ -266,7 +266,7 @@ import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contr
 
 We created a user-friendly interface to interact with the contract. Here's the [source code](Code/dapp/app.py) for our application. In this web app, the user is able to:
 
-![Dapp]()
+![cryptobara_minter](https://user-images.githubusercontent.com/88758706/155230249-e04a91cd-95fa-4c45-869e-474a649e6443.png)
 
 ```
 - Check Available CryptoBaras for minting
