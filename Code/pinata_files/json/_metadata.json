@@ -1,794 +1,11 @@
 [
   {
-    "name": "Cryptobaras #84",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/84.png",
-    "dna": "22059fff73774e705844e59c64d73c9fe349e11e",
-    "edition": 84,
-    "date": 1644770017707,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "orange_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "coffee_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "garnet_star"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "sombrero_sr"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #24",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/24.png",
-    "dna": "45637e89958778a786e65950dfb0b39e761f768a",
-    "edition": 24,
-    "date": 1644770018469,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "pink_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "coffee_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "pink_yellow_shades"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "sombrero_sr"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #15",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/15.png",
-    "dna": "dfa5b33195d7d818dd8ce1a1e05bfb85fa50297f",
-    "edition": 15,
-    "date": 1644770019318,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "orange_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "rose_capy_r"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "black_frame"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "sombrero_sr"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #94",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/94.png",
-    "dna": "e43b8dcf3a9d55e010d09264e6bdbbc9d985219b",
-    "edition": 94,
-    "date": 1644770019895,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "cyan_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "coffee_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "black_shades"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "blue_winter_hat_r"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #95",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/95.png",
-    "dna": "cc429fb2c64ba877c358ed30825b4c2f73cc51c4",
-    "edition": 95,
-    "date": 1644770020560,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "pink_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "moss_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "blue_shades"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "detective_hat"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #12",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/12.png",
-    "dna": "53cf49d4e8b6e12dfa9c65a41096aff2d8b44cb9",
-    "edition": 12,
-    "date": 1644770021080,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "pink_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "moss_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "black_frame"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "yellow_beanie"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #32",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/32.png",
-    "dna": "19328e16c96dd208a8974ae863d712a8776b43ad",
-    "edition": 32,
-    "date": 1644770021694,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "orange_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "white_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "black_frame"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "starry_top_hat"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #8",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/8.png",
-    "dna": "529a4a3d567f80a866c36590f085fedd129517e0",
-    "edition": 8,
-    "date": 1644770022242,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "green_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "brown_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "black_shades"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "blue_normal_hat"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #67",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/67.png",
-    "dna": "05179771c793136647bacdaca2b7fdbc77ab29d3",
-    "edition": 67,
-    "date": 1644770022765,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "cyan_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "coffee_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "garnet_star"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "grey_baseball_cap"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #7",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/7.png",
-    "dna": "d244ab8f8d6a493de6e431187ef621b1dae257e4",
-    "edition": 7,
-    "date": 1644770023322,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "grey_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "moss_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "tricolor_glasses_sr"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "grey_baseball_cap"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #13",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/13.png",
-    "dna": "e0297162ab9e164f9b0cae231f0b1f4eafb2bc7b",
-    "edition": 13,
-    "date": 1644770023851,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "orange_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "coffee_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "black_frame"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "hair_bows"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #37",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/37.png",
-    "dna": "e177acb572fc4995f7936974ef69fe753b698f2a",
-    "edition": 37,
-    "date": 1644770024378,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "pink_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "rose_capy_r"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "yellow_shades_r"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "blue_normal_hat"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #65",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/65.png",
-    "dna": "9dd59395ef45864b4f7e64ca28e83c0737e9a0b2",
-    "edition": 65,
-    "date": 1644770024956,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "pink_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "moss_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "red_frame"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "green_lucky_hat"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #100",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/100.png",
-    "dna": "ba52afd3e459117326c6a99485ed5223833808a8",
-    "edition": 100,
-    "date": 1644770025647,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "green_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "yellow_capy_sr"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "blue_shades"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "chef_hat"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #18",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/18.png",
-    "dna": "cce4a1cb9247c64136aa018f51777389bdbe777c",
-    "edition": 18,
-    "date": 1644770026212,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "pink_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "yellow_capy_sr"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "garnet_star"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "straw_hat"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #77",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/77.png",
-    "dna": "db3eb28ecce58e26a675bd902f28984bc561bdcf",
-    "edition": 77,
-    "date": 1644770026805,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "grey_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "brown_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "blue_shades"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "straw_hat"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #26",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/26.png",
-    "dna": "28a1824eb34cfc9b4fc006632e59514421403ce2",
-    "edition": 26,
-    "date": 1644770027540,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "orange_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "moss_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "black_frame"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "green_bow_r"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #87",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/87.png",
-    "dna": "d70f285613f6d91b1395b227aba8c2a79c3259a4",
-    "edition": 87,
-    "date": 1644770028286,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "grey_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "rose_capy_r"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "pink_yellow_shades"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "hair_bows"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #88",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/88.png",
-    "dna": "85d54e9c4ed10bf320e1fc17404aae0f010b6266",
-    "edition": 88,
-    "date": 1644770028799,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "pink_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "moss_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "black_frame"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "red_beret_r"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #68",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/68.png",
-    "dna": "3a19439ac5c9f24ff98f518ecce3c8bf8d2b62e6",
-    "edition": 68,
-    "date": 1644770029417,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "yellow_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "moss_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "pink_yellow_shades"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "starry_top_hat"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #40",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/40.png",
-    "dna": "662b5de3a63e97ec88744e793ed5961389477c90",
-    "edition": 40,
-    "date": 1644770029985,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "pink_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "moss_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "blue_shades"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "pink_sun_hat"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #11",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/11.png",
-    "dna": "70b8c6614e3588e8cce16623d9140b3e968eaa3e",
-    "edition": 11,
-    "date": 1644770030467,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "pink_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "white_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "yellow_shades_r"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "blue_normal_hat"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #22",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/22.png",
-    "dna": "9ea4aeeeeee6e5b511f6f814331eb15308bdfeaf",
-    "edition": 22,
-    "date": 1644770031083,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "cyan_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "coffee_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "red_frame"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "red_winter_beanie"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #1",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/1.png",
-    "dna": "a350a741f5ee6e5a6242ff9fe1e360faa3672d7f",
-    "edition": 1,
-    "date": 1644770031593,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "yellow_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "moss_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "blue_shades"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "pink_sun_hat"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #64",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/64.png",
-    "dna": "451313c955e238d19b727f1399bf7f8757571d66",
-    "edition": 64,
-    "date": 1644770032185,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "orange_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "moss_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "black_shades"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "yellow_beanie"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #71",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/71.png",
-    "dna": "1d5146d269a0f7de10962bdab2671eaf108cf20e",
-    "edition": 71,
-    "date": 1644770032843,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "cyan_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "coffee_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "garnet_star"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "hair_bows"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #98",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/98.png",
-    "dna": "0a7c2c0df3f4d39057663ec63d8da13be357d23d",
-    "edition": 98,
-    "date": 1644770033396,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "pink_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "moss_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "red_frame"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "yellow_beanie"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #10",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/10.png",
-    "dna": "4a61f4e41a9a4165241540f3f19a30233a9a3890",
-    "edition": 10,
-    "date": 1644770034229,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "orange_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "moss_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "black_shades"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "straw_hat"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
     "name": "Cryptobaras #41",
     "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/41.png",
-    "dna": "bae0387d05cc81c223d880206d99d5f9e65ccf83",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/41.png",
+    "dna": "7e6d1dbebcdd1f35945780f466e2e92e84185695",
     "edition": 41,
-    "date": 1644770034921,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "cyan_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "coffee_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "pink_yellow_shades"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "yellow_beanie"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #21",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/21.png",
-    "dna": "9016e6e837b25a62f70f171ddc6191b22b3c8ff6",
-    "edition": 21,
-    "date": 1644770035547,
+    "date": 1644980704815,
     "attributes": [
       {
         "trait_type": "Backgrounds",
@@ -796,107 +13,22 @@
       },
       {
         "trait_type": "Faces",
-        "value": "moss_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "garnet_star"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "red_winter_beanie"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #16",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/16.png",
-    "dna": "4e52e8d184ccb8c9b90ded5e7855d9ec836005fe",
-    "edition": 16,
-    "date": 1644770036093,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "grey_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "moss_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "garnet_star"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "pink_sun_hat"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #45",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/45.png",
-    "dna": "b11675dbcb36c27c2623b45e957dbe692289f8b9",
-    "edition": 45,
-    "date": 1644770036932,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "orange_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "rose_capy_r"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "black_shades"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "blue_normal_hat"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #38",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/38.png",
-    "dna": "15d383b50e6dd5f5521f4ef0a8854ff1f6cfce7d",
-    "edition": 38,
-    "date": 1644770037620,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "grey_bg"
-      },
-      {
-        "trait_type": "Faces",
         "value": "white_capy"
       },
       {
         "trait_type": "Glasses",
-        "value": "blue_shades"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "chef_hat"
+        "value": "garnet_star"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Cryptobaras #30",
+    "name": "Cryptobaras #72",
     "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/30.png",
-    "dna": "ab70e58618986c6aa1f3a479d370be16f54670b5",
-    "edition": 30,
-    "date": 1644770038307,
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/72.png",
+    "dna": "01e2d875a6492638e698b5c45133eeb3d8f96f1c",
+    "edition": 72,
+    "date": 1644980705089,
     "attributes": [
       {
         "trait_type": "Backgrounds",
@@ -904,15 +36,11 @@
       },
       {
         "trait_type": "Faces",
-        "value": "moss_capy"
+        "value": "brown_capy"
       },
       {
         "trait_type": "Glasses",
-        "value": "pink_yellow_shades"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "starry_top_hat"
+        "value": "red_frame"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -920,68 +48,14 @@
   {
     "name": "Cryptobaras #4",
     "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/4.png",
-    "dna": "3b47b52c847eea19f1dfe75512a1f616d99b12f1",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/4.png",
+    "dna": "da8cc3f8d90fe4b1b01c2128c4ef038d85b461a7",
     "edition": 4,
-    "date": 1644770038898,
+    "date": 1644980705357,
     "attributes": [
       {
         "trait_type": "Backgrounds",
         "value": "grey_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "brown_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "red_frame"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "blue_normal_hat"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #66",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/66.png",
-    "dna": "20c85165998002c2f52c969d6edd6fd8fb3a108d",
-    "edition": 66,
-    "date": 1644770039623,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "grey_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "brown_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "black_frame"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "blue_winter_hat_r"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #51",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/51.png",
-    "dna": "0535c0cf4ceaaeff285fe286ae81c0a3c96c0a92",
-    "edition": 51,
-    "date": 1644770040269,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "cyan_bg"
       },
       {
         "trait_type": "Faces",
@@ -990,106 +64,90 @@
       {
         "trait_type": "Glasses",
         "value": "blue_shades"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "pirate_hat"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Cryptobaras #81",
+    "name": "Cryptobaras #19",
     "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/81.png",
-    "dna": "f5c18f08db05dbff7346979fa7b09b0f96b3579d",
-    "edition": 81,
-    "date": 1644770040956,
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/19.png",
+    "dna": "bfd86c86975dea353503089f55368cfb9fcc3577",
+    "edition": 19,
+    "date": 1644980705631,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "orange_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "rose_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "blue_shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #75",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/75.png",
+    "dna": "06e7bfd53b3eaf694fe81d98ec94563a5852ba1e",
+    "edition": 75,
+    "date": 1644980705856,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "cyan_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "moss_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "black_frame"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #7",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/7.png",
+    "dna": "d2e91555a40ca98deed29dc389b6f60df0bfbdab",
+    "edition": 7,
+    "date": 1644980706082,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "grey_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "moss_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "pink_yellow_shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #82",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/82.png",
+    "dna": "cd10d6853ecd055b70b5ccdcb6fd4ecc723cc0f9",
+    "edition": 82,
+    "date": 1644980706299,
     "attributes": [
       {
         "trait_type": "Backgrounds",
         "value": "green_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "white_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "garnet_star"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "green_lucky_hat"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #46",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/46.png",
-    "dna": "5ad5e26386eb2adf0b1a4275792d8cfdbb41069a",
-    "edition": 46,
-    "date": 1644770041537,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "yellow_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "coffee_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "black_shades"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "officer_hat_r"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #58",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/58.png",
-    "dna": "c4186bc33970889f1974b708a53955da4a477bb9",
-    "edition": 58,
-    "date": 1644770042150,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "green_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "coffee_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "red_frame"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "chef_hat"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #27",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/27.png",
-    "dna": "94d1512d4fdc388f9a5267ce74e188136090b041",
-    "edition": 27,
-    "date": 1644770042680,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "yellow_bg"
       },
       {
         "trait_type": "Faces",
@@ -1098,52 +156,44 @@
       {
         "trait_type": "Glasses",
         "value": "black_shades"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "red_dotted_bow"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Cryptobaras #56",
+    "name": "Cryptobaras #28",
     "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/56.png",
-    "dna": "6c185481dfb80ffb5bde28154d11e7ba8e4a364a",
-    "edition": 56,
-    "date": 1644770043372,
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/28.png",
+    "dna": "aed24c4779b4dc242b15075102e25c70fb80d444",
+    "edition": 28,
+    "date": 1644980706523,
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "value": "cyan_bg"
+        "value": "orange_bg"
       },
       {
         "trait_type": "Faces",
-        "value": "brown_capy"
+        "value": "moss_capy"
       },
       {
         "trait_type": "Glasses",
-        "value": "garnet_star"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "blue_normal_hat"
+        "value": "clear_glasses"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Cryptobaras #99",
+    "name": "Cryptobaras #64",
     "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/99.png",
-    "dna": "18e26b03c6130cdfe6513013577208b0c91f4199",
-    "edition": 99,
-    "date": 1644770044091,
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/64.png",
+    "dna": "4b3ca4480511a9787271e3a4169f6208a4247ebb",
+    "edition": 64,
+    "date": 1644980706754,
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "value": "pink_bg"
+        "value": "green_bg"
       },
       {
         "trait_type": "Faces",
@@ -1151,7 +201,72 @@
       },
       {
         "trait_type": "Glasses",
-        "value": "red_frame"
+        "value": "garnet_star"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #36",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/36.png",
+    "dna": "89b6f9c957d1f34b8ed4e8e2258c3a9220fb3003",
+    "edition": 36,
+    "date": 1644980706966,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "yellow_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "white_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "garnet_star"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #81",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/81.png",
+    "dna": "2353d68301d43908a4c8148e30a5d5f19ac3d0d9",
+    "edition": 81,
+    "date": 1644980707200,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "orange_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "white_capy"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "pink_sun_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #85",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/85.png",
+    "dna": "11c0c2ada5be68732c0147d23f32e32779a23279",
+    "edition": 85,
+    "date": 1644980707413,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "yellow_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "coffee_capy"
       },
       {
         "trait_type": "Hats",
@@ -1161,309 +276,12 @@
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Cryptobaras #76",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/76.png",
-    "dna": "98307987f4543dade5412249fa6a981be4270535",
-    "edition": 76,
-    "date": 1644770044632,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "pink_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "white_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "red_frame"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "grey_baseball_cap"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #92",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/92.png",
-    "dna": "bc5b05f5ea89fc6570a5ec6849d4444f2a540867",
-    "edition": 92,
-    "date": 1644770045288,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "grey_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "coffee_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "yellow_shades_r"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "blue_normal_hat"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #19",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/19.png",
-    "dna": "5a8d84ac3183ba38bb5afcc2c10eb3303b531f0b",
-    "edition": 19,
-    "date": 1644770045846,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "pink_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "brown_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "pink_yellow_shades"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "green_lucky_hat"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #2",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/2.png",
-    "dna": "61f4922e2faf4fb45907bd0d384e7682e321b75c",
-    "edition": 2,
-    "date": 1644770046491,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "grey_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "moss_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "black_shades"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "red_dotted_bow"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #69",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/69.png",
-    "dna": "aa0a87794f2c3453845a76fd7495c0d2398c1658",
-    "edition": 69,
-    "date": 1644770047349,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "cyan_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "white_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "blue_shades"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "officer_hat_r"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #47",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/47.png",
-    "dna": "8b4d947cdbb492adca5638d84b8f2ae62ed73c4f",
-    "edition": 47,
-    "date": 1644770048159,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "grey_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "white_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "garnet_star"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "sombrero_sr"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #25",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/25.png",
-    "dna": "8d90076c2afa891054f3f188d4ad6c66c74e5778",
-    "edition": 25,
-    "date": 1644770048792,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "cyan_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "moss_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "garnet_star"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "pink_sun_hat"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #23",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/23.png",
-    "dna": "9ee9aa14a0b324865f54eca3adb623269ea58413",
-    "edition": 23,
-    "date": 1644770049415,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "grey_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "moss_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "red_frame"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "chef_hat"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #50",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/50.png",
-    "dna": "44647e9daedde32515fbc7a0c3fce32e94d99030",
-    "edition": 50,
-    "date": 1644770049945,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "yellow_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "moss_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "blue_shades"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "chef_hat"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #89",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/89.png",
-    "dna": "bd9a477dbc7753326e0c1c19175c53b0b18bf61f",
-    "edition": 89,
-    "date": 1644770050474,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "grey_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "moss_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "tricolor_glasses_sr"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "red_beret_r"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #93",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/93.png",
-    "dna": "9b0843db3554ad652c9cfcb813d92626775f5b0d",
-    "edition": 93,
-    "date": 1644770051054,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "yellow_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "white_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "pink_yellow_shades"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "blue_winter_hat_r"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
     "name": "Cryptobaras #53",
     "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/53.png",
-    "dna": "311ecb303c6e09dd545014642f1c7a59175eaa4f",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/53.png",
+    "dna": "6765210641e956d70be9fe3a5ba23f8f57711954",
     "edition": 53,
-    "date": 1644770051884,
+    "date": 1644980707665,
     "attributes": [
       {
         "trait_type": "Backgrounds",
@@ -1474,8 +292,27 @@
         "value": "moss_capy"
       },
       {
-        "trait_type": "Glasses",
-        "value": "red_frame"
+        "trait_type": "Hats",
+        "value": "chef_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #56",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/56.png",
+    "dna": "3188bb0cf2816a377949231a598e6b376e9c92f8",
+    "edition": 56,
+    "date": 1644980707878,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "cyan_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "white_capy"
       },
       {
         "trait_type": "Hats",
@@ -1485,12 +322,58 @@
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Cryptobaras #70",
+    "name": "Cryptobaras #63",
     "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/70.png",
-    "dna": "feb5e3cd260a6c980b36ec7505d281d69be6b7b5",
-    "edition": 70,
-    "date": 1644770052740,
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/63.png",
+    "dna": "89ccf99bf4ca97e4cf520d323f70344f46bccaf2",
+    "edition": 63,
+    "date": 1644980708095,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "green_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "brown_capy"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "sombrero"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #80",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/80.png",
+    "dna": "4dc7bedf3ff5f4714c5a4103e7763d484e043d09",
+    "edition": 80,
+    "date": 1644980708324,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "orange_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "coffee_capy"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "straw_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #23",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/23.png",
+    "dna": "270221e03c59092906cc65db926d850a17d09321",
+    "edition": 23,
+    "date": 1644980708570,
     "attributes": [
       {
         "trait_type": "Backgrounds",
@@ -1498,11 +381,76 @@
       },
       {
         "trait_type": "Faces",
-        "value": "rose_capy_r"
+        "value": "rose_capy"
       },
       {
-        "trait_type": "Glasses",
-        "value": "black_frame"
+        "trait_type": "Hats",
+        "value": "graduation_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #42",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/42.png",
+    "dna": "7dd81a45cebf2026456b7c48a95f6f233ee1ad2a",
+    "edition": 42,
+    "date": 1644980708778,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "pink_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "moss_capy"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "graduation_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #93",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/93.png",
+    "dna": "aeca861783f5f49273f0862f86c1c204a7d0a2c5",
+    "edition": 93,
+    "date": 1644980708997,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "cyan_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "coffee_capy"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "red_dotted_bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #98",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/98.png",
+    "dna": "c0e6507521c1e7b864e5b63921ac995feab4ddd3",
+    "edition": 98,
+    "date": 1644980709250,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "grey_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "moss_capy"
       },
       {
         "trait_type": "Hats",
@@ -1512,327 +460,12 @@
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Cryptobaras #78",
+    "name": "Cryptobaras #31",
     "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/78.png",
-    "dna": "3af65a4abb048155a3750cc36e6f1a9d7c56fd53",
-    "edition": 78,
-    "date": 1644770053591,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "cyan_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "moss_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "red_frame"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "starry_top_hat"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #48",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/48.png",
-    "dna": "6ea639e23c933469b367ca7435fdfbe31f3981dc",
-    "edition": 48,
-    "date": 1644770054378,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "orange_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "rose_capy_r"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "black_frame"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "jester_hat_sr"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #55",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/55.png",
-    "dna": "9a1458a25f87cff5b7e7c334de391cdfd39148d9",
-    "edition": 55,
-    "date": 1644770055049,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "grey_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "moss_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "red_frame"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "jester_hat_sr"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #60",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/60.png",
-    "dna": "bfa8c178947d8504fee8e3475ff816d6db18df35",
-    "edition": 60,
-    "date": 1644770055748,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "grey_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "white_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "tricolor_glasses_sr"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "green_lucky_hat"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #42",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/42.png",
-    "dna": "b96306ba907f3cf1a743834a78fed8fefe6d4460",
-    "edition": 42,
-    "date": 1644770056445,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "yellow_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "brown_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "black_frame"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #17",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/17.png",
-    "dna": "41c96aa6aea1b52fa87303116ad6120a73b3959a",
-    "edition": 17,
-    "date": 1644770057030,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "yellow_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "moss_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "blue_shades"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #20",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/20.png",
-    "dna": "8a1c2af562579e421111feaaa385c1cbf6029a14",
-    "edition": 20,
-    "date": 1644770057874,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "cyan_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "white_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "blue_shades"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #97",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/97.png",
-    "dna": "dcaa852edf65c0b98bc4ce1d69007a72ab9bfba5",
-    "edition": 97,
-    "date": 1644770058666,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "yellow_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "white_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "black_shades"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #82",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/82.png",
-    "dna": "04f641d1ad1d9ebacf3cf5ceb2383d6a1df003e8",
-    "edition": 82,
-    "date": 1644770059458,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "orange_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "yellow_capy_sr"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "blue_shades"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #28",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/28.png",
-    "dna": "89b6f9c957d1f34b8ed4e8e2258c3a9220fb3003",
-    "edition": 28,
-    "date": 1644770059965,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "yellow_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "white_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "garnet_star"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #91",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/91.png",
-    "dna": "77ca1280617fc9d0834d3ad44c41735c29075966",
-    "edition": 91,
-    "date": 1644770060569,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "yellow_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "coffee_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "blue_shades"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #96",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/96.png",
-    "dna": "050b06299fff54bbb6e17ca3a5a3d8f47c8ce2c2",
-    "edition": 96,
-    "date": 1644770061016,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "grey_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "moss_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "red_frame"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #59",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/59.png",
-    "dna": "93fd8fb6eb8d23a4aa19860dbd09d044e03f82e6",
-    "edition": 59,
-    "date": 1644770061640,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "green_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "coffee_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "pink_yellow_shades"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #43",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/43.png",
-    "dna": "c3c1b2db49455ae71a9706f75f6fbabfc95b4193",
-    "edition": 43,
-    "date": 1644770062070,
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/31.png",
+    "dna": "13768d8c0eaf92b44d42eab03d509cb8cad697d4",
+    "edition": 31,
+    "date": 1644980709416,
     "attributes": [
       {
         "trait_type": "Backgrounds",
@@ -1841,194 +474,6 @@
       {
         "trait_type": "Faces",
         "value": "coffee_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "garnet_star"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #34",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/34.png",
-    "dna": "04b5686aa5c8b6da98c1d4448d9fa94883df6a5e",
-    "edition": 34,
-    "date": 1644770062858,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "grey_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "brown_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "garnet_star"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #62",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/62.png",
-    "dna": "9e319b2e170fb976dca5df00e609e88fef297265",
-    "edition": 62,
-    "date": 1644770063395,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "orange_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "white_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "blue_shades"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #29",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/29.png",
-    "dna": "f044a88e1bd4759faa6bcf35bd8af27eeb28895d",
-    "edition": 29,
-    "date": 1644770064383,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "cyan_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "rose_capy_r"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "red_frame"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #39",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/39.png",
-    "dna": "51a6fbea4217a442d6fb6932d8c819939cc7e701",
-    "edition": 39,
-    "date": 1644770064805,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "green_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "brown_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "pink_yellow_shades"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #9",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/9.png",
-    "dna": "da8cc3f8d90fe4b1b01c2128c4ef038d85b461a7",
-    "edition": 9,
-    "date": 1644770065328,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "grey_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "coffee_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "blue_shades"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #86",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/86.png",
-    "dna": "6919ba27e8a2abf22edde88a60994dd270782cfa",
-    "edition": 86,
-    "date": 1644770065850,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "green_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "moss_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "black_frame"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #49",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/49.png",
-    "dna": "cd10d6853ecd055b70b5ccdcb6fd4ecc723cc0f9",
-    "edition": 49,
-    "date": 1644770066445,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "green_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "moss_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "black_shades"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #44",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/44.png",
-    "dna": "2f4bed5d99ab234b7ba4a78a7e31988565b2aa6f",
-    "edition": 44,
-    "date": 1644770067280,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "yellow_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "rose_capy_r"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "garnet_star"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -2036,10 +481,162 @@
   {
     "name": "Cryptobaras #73",
     "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/73.png",
-    "dna": "2c7c77a3ba42fa4a2814a9c075790880082f05c4",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/73.png",
+    "dna": "be16519a63009fce92a94ec37ca8852dbbfdb48a",
     "edition": 73,
-    "date": 1644770068061,
+    "date": 1644980709577,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "yellow_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "moss_capy"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #84",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/84.png",
+    "dna": "fb42bd541e25cadd565530c9dc1cafcfd3d34a80",
+    "edition": 84,
+    "date": 1644980709774,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "green_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "moss_capy"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #91",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/91.png",
+    "dna": "edd6ebf0adc0f33602efb52140483fc1d482a03f",
+    "edition": 91,
+    "date": 1644980709938,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "cyan_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "white_capy"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #11",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/11.png",
+    "dna": "c597c5eade7a474f4b9cc7f5df4b88cb934757ad",
+    "edition": 11,
+    "date": 1644980710099,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "yellow_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "coffee_capy"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #61",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/61.png",
+    "dna": "4ed600778330215ee8724c6f9e50586e797c7c94",
+    "edition": 61,
+    "date": 1644980710278,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "cyan_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "coffee_capy"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #54",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/54.png",
+    "dna": "1b88113e9a9c2048c7855c4c0a10ee05fa420e07",
+    "edition": 54,
+    "date": 1644980710447,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "orange_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "brown_capy"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #74",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/74.png",
+    "dna": "9055b7124c9c5b4b9da5fe8ef3325e7ab36f2a67",
+    "edition": 74,
+    "date": 1644980710621,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "grey_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "yellow_capy"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #70",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/70.png",
+    "dna": "a3c2159685977d78d4668cc30adb7dd764f26202",
+    "edition": 70,
+    "date": 1644980710792,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "grey_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "moss_capy"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #20",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/20.png",
+    "dna": "35dcdd410e8cc307b2b0783429e1be66e94401fa",
+    "edition": 20,
+    "date": 1644980710959,
     "attributes": [
       {
         "trait_type": "Backgrounds",
@@ -2048,21 +645,55 @@
       {
         "trait_type": "Faces",
         "value": "brown_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "pink_yellow_shades"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Cryptobaras #35",
+    "name": "Cryptobaras #9",
     "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/35.png",
-    "dna": "7df1f77f4032a6aa504d8c0cc2a8352c9c971714",
-    "edition": 35,
-    "date": 1644770068580,
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/9.png",
+    "dna": "60add88c39a9b583dde491d7ecc18ea51339531e",
+    "edition": 9,
+    "date": 1644980711136,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "orange_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "moss_capy"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #15",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/15.png",
+    "dna": "c40487aacb4b7d15cce19e94cd40df8f5b78eb58",
+    "edition": 15,
+    "date": 1644980711291,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "pink_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "white_capy"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #100",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/100.png",
+    "dna": "d4ad97422d5f1beca7555977be4525d0c7a792d5",
+    "edition": 100,
+    "date": 1644980711462,
     "attributes": [
       {
         "trait_type": "Backgrounds",
@@ -2071,44 +702,17 @@
       {
         "trait_type": "Faces",
         "value": "coffee_capy"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "black_frame"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Cryptobaras #80",
+    "name": "Cryptobaras #79",
     "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/80.png",
-    "dna": "71f7c3faa5c9d078d88b6bdcd8fb79a03e928bc6",
-    "edition": 80,
-    "date": 1644770068991,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "yellow_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "rose_capy_r"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "red_dotted_bow"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #83",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/83.png",
-    "dna": "9522265629f6b0823ca76a3aa9169544aba4eb01",
-    "edition": 83,
-    "date": 1644770069501,
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/79.png",
+    "dna": "345e958a0998e94acad4ecdf04d5bf5bf0a449de",
+    "edition": 79,
+    "date": 1644980711621,
     "attributes": [
       {
         "trait_type": "Backgrounds",
@@ -2116,22 +720,321 @@
       },
       {
         "trait_type": "Faces",
-        "value": "yellow_capy_sr"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "green_lucky_hat"
+        "value": "moss_capy"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Cryptobaras #61",
+    "name": "Cryptobaras #37",
     "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/61.png",
-    "dna": "b80fdf06c35c208715ce4b4c8e144a2acc3121b1",
-    "edition": 61,
-    "date": 1644770070134,
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/37.png",
+    "dna": "af007678efb221426e74511bc82932e95ba0c636",
+    "edition": 37,
+    "date": 1644980711795,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "cyan_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "moss_capy"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #44",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/44.png",
+    "dna": "0b86415844f9bacbd6cfb7d79561bd9dafda639e",
+    "edition": 44,
+    "date": 1644980711956,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "pink_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "rose_capy"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #26",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/26.png",
+    "dna": "9582c1f8e203fe4e817f1283468c4138a435e884",
+    "edition": 26,
+    "date": 1644980712131,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "green_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "white_capy"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #83",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/83.png",
+    "dna": "66c65fe3ea84aa5bd8007a7aab9c022d56111d14",
+    "edition": 83,
+    "date": 1644980712297,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "pink_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "brown_capy"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #87",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/87.png",
+    "dna": "9d51619eacaef186f4b271666de5035359f98aa8",
+    "edition": 87,
+    "date": 1644980712474,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "orange_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "yellow_capy"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #69",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/69.png",
+    "dna": "3c7d22009984c90c5e015a62fea9c0c5a0900120",
+    "edition": 69,
+    "date": 1644980712645,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "grey_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "brown_capy"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #62",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/62.png",
+    "dna": "a4a4686f7f6a25fad5f5c3fd9ee1d9a2ca3dfe92",
+    "edition": 62,
+    "date": 1644980712896,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "yellow_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "white_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "red_frame"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "green_bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #58",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/58.png",
+    "dna": "342a1f5fbd9107c82e2549986292a5a7f85f7fe7",
+    "edition": 58,
+    "date": 1644980713202,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "cyan_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "yellow_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "garnet_star"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "chef_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #59",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/59.png",
+    "dna": "0d78fdf739d67fbedc04734db47c164b7b88f358",
+    "edition": 59,
+    "date": 1644980713462,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "yellow_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "brown_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "pink_yellow_shades"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "officer_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #39",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/39.png",
+    "dna": "8c26f8699e2aff133eb1f2e7ecc4ebeb3e049dfd",
+    "edition": 39,
+    "date": 1644980713738,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "grey_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "white_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "blue_shades"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "red_beret"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #88",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/88.png",
+    "dna": "e004a9c61fbbfa33d2cd393759c7a0f57ce0173d",
+    "edition": 88,
+    "date": 1644980713998,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "pink_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "moss_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "black_shades"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "red_beret"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #35",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/35.png",
+    "dna": "eaa9d950067e88efa1a5fcbc47aa850f04d98b9b",
+    "edition": 35,
+    "date": 1644980714269,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "grey_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "white_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "red_frame"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "graduation_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #65",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/65.png",
+    "dna": "cfc564946a21285fd9ecd65ffbedd6d87daee4e4",
+    "edition": 65,
+    "date": 1644980714537,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "grey_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "moss_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "blue_shades"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "yellow_beanie"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #30",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/30.png",
+    "dna": "5add86d046d55c2e8f2d44a19eb74a670bab899f",
+    "edition": 30,
+    "date": 1644980714811,
     "attributes": [
       {
         "trait_type": "Backgrounds",
@@ -2142,42 +1045,23 @@
         "value": "moss_capy"
       },
       {
+        "trait_type": "Glasses",
+        "value": "clear_glasses"
+      },
+      {
         "trait_type": "Hats",
-        "value": "red_beret_r"
+        "value": "blue_normal_hat"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Cryptobaras #33",
+    "name": "Cryptobaras #60",
     "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/33.png",
-    "dna": "9e13017f80144e7f3342bc3f1a16419c0fc4dbad",
-    "edition": 33,
-    "date": 1644770070616,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "yellow_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "coffee_capy"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "hair_bows"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #90",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/90.png",
-    "dna": "c6021ea2a5ed5cf8980f38df235ddc1135525c96",
-    "edition": 90,
-    "date": 1644770071316,
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/60.png",
+    "dna": "d162b478e6d477813a494a98e65c15dc72f3c6b3",
+    "edition": 60,
+    "date": 1644980715072,
     "attributes": [
       {
         "trait_type": "Backgrounds",
@@ -2185,53 +1069,11 @@
       },
       {
         "trait_type": "Faces",
-        "value": "rose_capy_r"
+        "value": "rose_capy"
       },
       {
-        "trait_type": "Hats",
-        "value": "grey_baseball_cap"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #54",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/54.png",
-    "dna": "d9b08aeebc1b5fd11daacefb165bb1c91040e71a",
-    "edition": 54,
-    "date": 1644770071932,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "green_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "brown_capy"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "red_dotted_bow"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #14",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/14.png",
-    "dna": "369b1fa12a702539eff171ecbe997a9b4faff9c1",
-    "edition": 14,
-    "date": 1644770072509,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "cyan_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "yellow_capy_sr"
+        "trait_type": "Glasses",
+        "value": "blue_shades"
       },
       {
         "trait_type": "Hats",
@@ -2241,58 +1083,12 @@
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Cryptobaras #5",
+    "name": "Cryptobaras #94",
     "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/5.png",
-    "dna": "11a5724bfb0ba60ba5c96bf19a1ad6511c1a67b4",
-    "edition": 5,
-    "date": 1644770073431,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "pink_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "coffee_capy"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "blue_winter_hat_r"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #52",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/52.png",
-    "dna": "590859a64bf51dc47933d07fd4fde5717fab9f97",
-    "edition": 52,
-    "date": 1644770074034,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "green_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "coffee_capy"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "red_winter_beanie"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #79",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/79.png",
-    "dna": "b753fdabe2cb5684499ddc59b259b2bab7918d42",
-    "edition": 79,
-    "date": 1644770074813,
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/94.png",
+    "dna": "4e52e8d184ccb8c9b90ded5e7855d9ec836005fe",
+    "edition": 94,
+    "date": 1644980715352,
     "attributes": [
       {
         "trait_type": "Backgrounds",
@@ -2300,7 +1096,92 @@
       },
       {
         "trait_type": "Faces",
-        "value": "brown_capy"
+        "value": "moss_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "garnet_star"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "pink_sun_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #55",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/55.png",
+    "dna": "70aca9fbca5ba53748b501eb6b8861e7976ad495",
+    "edition": 55,
+    "date": 1644980715623,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "cyan_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "white_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "clear_glasses"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "detective_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #1",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/1.png",
+    "dna": "0e938e5321970a10059460fb42cf7a3ba889d989",
+    "edition": 1,
+    "date": 1644980715890,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "orange_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "coffee_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "black_shades"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "graduation_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #48",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/48.png",
+    "dna": "e5e7aace59621198baab183b9d30f68cd8b5ef52",
+    "edition": 48,
+    "date": 1644980716171,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "grey_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "white_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "garnet_star"
       },
       {
         "trait_type": "Hats",
@@ -2312,41 +1193,22 @@
   {
     "name": "Cryptobaras #3",
     "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/3.png",
-    "dna": "8f49a1fa4351548778e8e07a12ea90626c391f28",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/3.png",
+    "dna": "7250865227ea91f4c5cb3cb298c6b6c62c212353",
     "edition": 3,
-    "date": 1644770075440,
+    "date": 1644980716473,
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "value": "pink_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "white_capy"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "red_winter_beanie"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #72",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/72.png",
-    "dna": "89c435300c113996d61f8c4ae1f0b3a659c279b5",
-    "edition": 72,
-    "date": 1644770076104,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "green_bg"
+        "value": "grey_bg"
       },
       {
         "trait_type": "Faces",
         "value": "brown_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "red_frame"
       },
       {
         "trait_type": "Hats",
@@ -2356,58 +1218,39 @@
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Cryptobaras #6",
+    "name": "Cryptobaras #90",
     "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/6.png",
-    "dna": "49029436c24eb6cca256f49a0763367a642aad36",
-    "edition": 6,
-    "date": 1644770076605,
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/90.png",
+    "dna": "b016f603f9955d83de80ab1e0628f946736fda1c",
+    "edition": 90,
+    "date": 1644980716762,
     "attributes": [
       {
         "trait_type": "Backgrounds",
-        "value": "green_bg"
+        "value": "grey_bg"
       },
       {
         "trait_type": "Faces",
-        "value": "rose_capy_r"
+        "value": "coffee_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "blue_shades"
       },
       {
         "trait_type": "Hats",
-        "value": "grey_baseball_cap"
+        "value": "yellow_beanie"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Cryptobaras #74",
+    "name": "Cryptobaras #40",
     "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/74.png",
-    "dna": "d1af3ee03ca2fe4d5e8c025219bca9e318fa32f5",
-    "edition": 74,
-    "date": 1644770077064,
-    "attributes": [
-      {
-        "trait_type": "Backgrounds",
-        "value": "cyan_bg"
-      },
-      {
-        "trait_type": "Faces",
-        "value": "brown_capy"
-      },
-      {
-        "trait_type": "Hats",
-        "value": "grey_baseball_cap"
-      }
-    ],
-    "compiler": "HashLips Art Engine"
-  },
-  {
-    "name": "Cryptobaras #36",
-    "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/36.png",
-    "dna": "f144c56c10376cecb4850759c6362f10b4438865",
-    "edition": 36,
-    "date": 1644770077609,
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/40.png",
+    "dna": "b61167482793a80f93ed9c67b2e8b074e34adcaa",
+    "edition": 40,
+    "date": 1644980717031,
     "attributes": [
       {
         "trait_type": "Backgrounds",
@@ -2418,19 +1261,50 @@
         "value": "coffee_capy"
       },
       {
+        "trait_type": "Glasses",
+        "value": "garnet_star"
+      },
+      {
         "trait_type": "Hats",
-        "value": "red_dotted_bow"
+        "value": "grey_baseball_cap"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Cryptobaras #85",
+    "name": "Cryptobaras #34",
     "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/85.png",
-    "dna": "5aa4d6ca20ba8bf841bedf19fee7ab8b4c4d002d",
-    "edition": 85,
-    "date": 1644770078070,
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/34.png",
+    "dna": "7ccd17fb9d5c3074f849fa9944a59c9edfbf65c5",
+    "edition": 34,
+    "date": 1644980717293,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "yellow_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "moss_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "red_frame"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "green_lucky_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #78",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/78.png",
+    "dna": "f54ec993e967db17a38ac436ed71e4dad9d5a671",
+    "edition": 78,
+    "date": 1644980717565,
     "attributes": [
       {
         "trait_type": "Backgrounds",
@@ -2438,7 +1312,38 @@
       },
       {
         "trait_type": "Faces",
-        "value": "coffee_capy"
+        "value": "white_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "red_frame"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "grey_baseball_cap"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #89",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/89.png",
+    "dna": "b4198c3bf48be5c92d7c2ab2b13162074c3bc1d5",
+    "edition": 89,
+    "date": 1644980717844,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "cyan_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "white_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "red_frame"
       },
       {
         "trait_type": "Hats",
@@ -2448,12 +1353,147 @@
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Cryptobaras #31",
+    "name": "Cryptobaras #17",
     "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/31.png",
-    "dna": "ebbb6edf40bd7a3887e243824cdf96e49638987d",
-    "edition": 31,
-    "date": 1644770078590,
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/17.png",
+    "dna": "7e52a25df84854a580b4ec603ced1683b7fa4397",
+    "edition": 17,
+    "date": 1644980718107,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "pink_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "coffee_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "pink_yellow_shades"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "blue_normal_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #43",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/43.png",
+    "dna": "10601f02273c612891ed43b3985d933b2d96d0ce",
+    "edition": 43,
+    "date": 1644980718379,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "orange_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "moss_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "tricolor_glasses"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "sombrero"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #32",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/32.png",
+    "dna": "9f13892e92a95410e25e8c495e8ea81cd7eeb48a",
+    "edition": 32,
+    "date": 1644980718653,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "green_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "brown_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "blue_shades"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "detective_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #51",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/51.png",
+    "dna": "afa146f65781caf9be73f42d18683174a2db5859",
+    "edition": 51,
+    "date": 1644980718917,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "pink_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "moss_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "red_frame"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "grey_baseball_cap"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #95",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/95.png",
+    "dna": "a44009724594c7f29cc24f523ef305084a64e16d",
+    "edition": 95,
+    "date": 1644980719176,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "pink_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "brown_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "yellow_shades"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "officer_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #24",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/24.png",
+    "dna": "c6776f370fcff16283f8b4ac0e1b6be601456b45",
+    "edition": 24,
+    "date": 1644980719457,
     "attributes": [
       {
         "trait_type": "Backgrounds",
@@ -2461,22 +1501,26 @@
       },
       {
         "trait_type": "Faces",
-        "value": "coffee_capy"
+        "value": "moss_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "red_frame"
       },
       {
         "trait_type": "Hats",
-        "value": "pink_sun_hat"
+        "value": "blue_normal_hat"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Cryptobaras #75",
+    "name": "Cryptobaras #38",
     "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/75.png",
-    "dna": "c03acfc036c2e764a10ede68064c9f42aabb4b48",
-    "edition": 75,
-    "date": 1644770079192,
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/38.png",
+    "dna": "8fa11fa102a84232687411183d4f7ec3ffe51800",
+    "edition": 38,
+    "date": 1644980719730,
     "attributes": [
       {
         "trait_type": "Backgrounds",
@@ -2487,19 +1531,293 @@
         "value": "moss_capy"
       },
       {
+        "trait_type": "Glasses",
+        "value": "pink_yellow_shades"
+      },
+      {
         "trait_type": "Hats",
-        "value": "officer_hat_r"
+        "value": "red_dotted_bow"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Cryptobaras #57",
+    "name": "Cryptobaras #18",
     "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/57.png",
-    "dna": "29142ac8d644e9012fc8401fbf880987855bbb0a",
-    "edition": 57,
-    "date": 1644770079640,
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/18.png",
+    "dna": "6fd2a950470ebda8d2abc316fa1f84b7185f5c23",
+    "edition": 18,
+    "date": 1644980719997,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "cyan_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "coffee_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "yellow_shades"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "yellow_beanie"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #50",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/50.png",
+    "dna": "15e228b28969d1a8ea3b121f84f01aa2bc852a5f",
+    "edition": 50,
+    "date": 1644980720320,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "pink_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "brown_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "yellow_shades"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "jester_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #12",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/12.png",
+    "dna": "9a9fac25a3c83a4a84ab59d3c33bf0234becdaf6",
+    "edition": 12,
+    "date": 1644980720588,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "orange_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "white_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "black_frame"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "graduation_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #66",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/66.png",
+    "dna": "705baf8d238f634f4f4a2932866fc1aba9bb92a0",
+    "edition": 66,
+    "date": 1644980720859,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "cyan_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "moss_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "red_frame"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "red_dotted_bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #16",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/16.png",
+    "dna": "a615bb2c4af484659851881736691e1231ac6a6b",
+    "edition": 16,
+    "date": 1644980721122,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "yellow_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "moss_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "red_frame"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "pirate_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #52",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/52.png",
+    "dna": "cab916be4c01f3348892009e300aa1ae832e7efd",
+    "edition": 52,
+    "date": 1644980721380,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "pink_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "coffee_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "pink_yellow_shades"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "hair_bows"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #14",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/14.png",
+    "dna": "3a8218900d1abb91b5f8cff38ed6afd3b5071151",
+    "edition": 14,
+    "date": 1644980721648,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "cyan_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "white_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "garnet_star"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "sombrero"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #99",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/99.png",
+    "dna": "a5675cc5ed291e610c31a29f0bd89715cbeb4d9f",
+    "edition": 99,
+    "date": 1644980721926,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "grey_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "coffee_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "pink_yellow_shades"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "detective_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #86",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/86.png",
+    "dna": "67983a6eedea6ced514487b4c002770af44b8d5f",
+    "edition": 86,
+    "date": 1644980722223,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "orange_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "rose_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "red_frame"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "graduation_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #27",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/27.png",
+    "dna": "71a333022f9f45dcfeb8b130aa37f786e9921114",
+    "edition": 27,
+    "date": 1644980722515,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "grey_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "white_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "blue_shades"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "blue_winter_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #29",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/29.png",
+    "dna": "c106b439f12252869f57292998bd16922b4da97a",
+    "edition": 29,
+    "date": 1644980722773,
     "attributes": [
       {
         "trait_type": "Backgrounds",
@@ -2510,19 +1828,158 @@
         "value": "brown_capy"
       },
       {
+        "trait_type": "Glasses",
+        "value": "black_frame"
+      },
+      {
         "trait_type": "Hats",
-        "value": "starry_top_hat"
+        "value": "blue_normal_hat"
       }
     ],
     "compiler": "HashLips Art Engine"
   },
   {
-    "name": "Cryptobaras #63",
+    "name": "Cryptobaras #92",
     "description": "To Be Or Not To Be Cryptobara",
-    "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/63.png",
-    "dna": "1ea280c8093d227a24511d8327cd820342c94d90",
-    "edition": 63,
-    "date": 1644770080147,
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/92.png",
+    "dna": "a4b47caa96f45cf7e39f5aed51ab7428175c7c8b",
+    "edition": 92,
+    "date": 1644980723044,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "cyan_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "coffee_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "red_frame"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "hair_bows"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #67",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/67.png",
+    "dna": "0d658c8daec55e52b3b7dcbd292336fcf42b7575",
+    "edition": 67,
+    "date": 1644980723371,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "yellow_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "coffee_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "pink_yellow_shades"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "chef_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #71",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/71.png",
+    "dna": "7562f1cd3b2bd924b5ea6422cd137bc06826ce25",
+    "edition": 71,
+    "date": 1644980723648,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "pink_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "rose_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "yellow_shades"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "green_lucky_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #33",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/33.png",
+    "dna": "55915bc6a3e83a4bdb15f0d2024d83862887dd60",
+    "edition": 33,
+    "date": 1644980723936,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "cyan_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "moss_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "garnet_star"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "green_lucky_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #76",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/76.png",
+    "dna": "3146ffbbb35ed4a1e40d35d4ab25662021abd81d",
+    "edition": 76,
+    "date": 1644980724285,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "green_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "yellow_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "black_shades"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "blue_normal_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #25",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/25.png",
+    "dna": "d0380acdb4641827b797d9d154fdc637d944d7a5",
+    "edition": 25,
+    "date": 1644980724588,
     "attributes": [
       {
         "trait_type": "Backgrounds",
@@ -2531,6 +1988,469 @@
       {
         "trait_type": "Faces",
         "value": "moss_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "black_frame"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "officer_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #46",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/46.png",
+    "dna": "a8cd0b0b0a6a892c01a62557951a469e28140094",
+    "edition": 46,
+    "date": 1644980724866,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "orange_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "coffee_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "black_shades"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "party_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #49",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/49.png",
+    "dna": "9df267b19585642ed24c0e9bb08655390b35515c",
+    "edition": 49,
+    "date": 1644980725125,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "pink_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "white_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "tricolor_glasses"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "hair_bows"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #57",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/57.png",
+    "dna": "f17d2be12295d7a3122eebe7a37af943734606b8",
+    "edition": 57,
+    "date": 1644980725374,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "yellow_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "white_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "black_frame"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "graduation_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #13",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/13.png",
+    "dna": "52776570183dcd5c7ad9f94b5388e1072a35a4ff",
+    "edition": 13,
+    "date": 1644980725668,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "cyan_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "moss_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "yellow_shades"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "officer_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #45",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/45.png",
+    "dna": "5a85cb331781c9d2bfdcc41eec2563f6d71f8a20",
+    "edition": 45,
+    "date": 1644980725939,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "grey_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "moss_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "pink_yellow_shades"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "pirate_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #77",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/77.png",
+    "dna": "f2c500e7bedcb8650d7541419ecca2c081274bcb",
+    "edition": 77,
+    "date": 1644980726203,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "pink_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "coffee_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "blue_shades"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "hair_bows"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #21",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/21.png",
+    "dna": "efeab333247bb06090094d92eb7bd61ffd1bce6e",
+    "edition": 21,
+    "date": 1644980726516,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "grey_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "coffee_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "pink_yellow_shades"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "chef_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #68",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/68.png",
+    "dna": "47f55d3942ed520d2a1d9ad4deb68e003ce05750",
+    "edition": 68,
+    "date": 1644980726813,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "grey_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "yellow_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "blue_shades"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "yellow_beanie"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #10",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/10.png",
+    "dna": "5d502e6cf78b473bbcd5ea1b5bcfa3e84cb6d348",
+    "edition": 10,
+    "date": 1644980727081,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "green_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "white_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "black_frame"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "pirate_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #8",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/8.png",
+    "dna": "4b816f8f7f6e8628e82daec66e775fb5cfded13d",
+    "edition": 8,
+    "date": 1644980727348,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "pink_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "white_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "black_frame"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "starry_top_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #2",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/2.png",
+    "dna": "7b1f6d60a45e4322a301aa8887ecba4ad261f654",
+    "edition": 2,
+    "date": 1644980727652,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "green_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "moss_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "blue_shades"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "chef_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #96",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/96.png",
+    "dna": "2c65b6d65e64c72283a4037a78d8b32002c2eb13",
+    "edition": 96,
+    "date": 1644980727956,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "grey_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "brown_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "garnet_star"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "red_dotted_bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #6",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/6.png",
+    "dna": "f6065890f99ed1cc2e53451addafeaf2baba9d9f",
+    "edition": 6,
+    "date": 1644980728226,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "orange_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "white_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "red_frame"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "hair_bows"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #5",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/5.png",
+    "dna": "2b72001836d641d0ca7105dbd95477b9b4f71335",
+    "edition": 5,
+    "date": 1644980728496,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "orange_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "white_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "black_shades"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "grey_baseball_cap"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #22",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/22.png",
+    "dna": "0f5ece045b6668a1010c4b7ff4cefecd3f836849",
+    "edition": 22,
+    "date": 1644980728763,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "orange_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "coffee_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "black_shades"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "pink_sun_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #47",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/47.png",
+    "dna": "0512f9c485b2d7e98b8875e5895574471401ca3e",
+    "edition": 47,
+    "date": 1644980729088,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "yellow_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "coffee_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "yellow_shades"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "chef_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Cryptobaras #97",
+    "description": "To Be Or Not To Be Cryptobara",
+    "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/97.png",
+    "dna": "ab03fa73d727e3844d260b2ba29759b9c3396ea6",
+    "edition": 97,
+    "date": 1644980729379,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "yellow_bg"
+      },
+      {
+        "trait_type": "Faces",
+        "value": "coffee_capy"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "garnet_star"
       },
       {
         "trait_type": "Hats",

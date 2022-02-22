@@ -1,10 +1,10 @@
 {
   "name": "Cryptobaras #4",
   "description": "To Be Or Not To Be Cryptobara",
-  "image": "ipfs://QmXwnf99NoKwVvKpJ5WnrEmbbqtpEarJqF6jUXUzmkSZhk/4.png",
-  "dna": "3b47b52c847eea19f1dfe75512a1f616d99b12f1",
+  "image": "ipfs://QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/4.png",
+  "dna": "da8cc3f8d90fe4b1b01c2128c4ef038d85b461a7",
   "edition": 4,
-  "date": 1644770038898,
+  "date": 1644980705357,
   "attributes": [
     {
       "trait_type": "Backgrounds",
@@ -12,15 +12,11 @@
     },
     {
       "trait_type": "Faces",
-      "value": "brown_capy"
+      "value": "coffee_capy"
     },
     {
       "trait_type": "Glasses",
-      "value": "red_frame"
-    },
-    {
-      "trait_type": "Hats",
-      "value": "blue_normal_hat"
+      "value": "blue_shades"
     }
   ],
   "compiler": "HashLips Art Engine"
