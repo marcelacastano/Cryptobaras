@@ -156,7 +156,7 @@ st.markdown("---")
 
 st.markdown("## Take a Look at Your Tokens")
 
-st.markdown("Enter Owner Address and Hit the **Check Tokens** button to retrieve TokenIds for All of Your CryptoBaras:")
+st.markdown("Enter Owner Address and Hit the **Check Tokens** button to retrieve TokenIds for all of your CryptoBaras:")
 
 minter_address = st.text_input("Owner Address")
 
