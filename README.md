@@ -6,12 +6,13 @@
 
 In this project, we showcase our journey from creating our NFT idea to the full minting and deployment of our smart contract and Dapp.
 
-- Source code:
+- Source code: 
+  - [Solidity Contract](Code/contract/TestContractMarcela.sol)
+  - [DAPP](Code/dapp/app.py)
 
-- Deployed  App:
+- Deployed  App: https://cryptobaras-minter.herokuapp.com/
 
-- Open Sea Collection: 
-
+- Collection: [Open Sea](https://testnets.opensea.io/collection/cryptobarastest-v4)
 
 # Art Generation
 
@@ -295,3 +296,10 @@ Here's the finished product:
 <h1 align="center">✨✨The Cryptobara Collection✨✨</h1>
 
 ![preview](https://user-images.githubusercontent.com/78571802/154811191-6f7aa3cb-5dd7-4927-8b89-b02a54e77ebc.png)
+
+
+# Useful Links
+
+https://medium.com/@timanovsky/heroku-buildpack-to-support-deployment-from-subdirectory-e743c2c838dd
+
+https://www.youtube.com/watch?v=fzH7Gjadmj0&t=7263s&ab_channel=HashLipsNFT
