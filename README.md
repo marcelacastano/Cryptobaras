@@ -264,9 +264,9 @@ import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contr
 
 # Decentralized Application
 
-We created a user-friendly interface to interact with the contract. Here's the [source code](Code/dapp/app.py) for our application. In this web app, the user is able to:
-
 https://user-images.githubusercontent.com/78571802/154873863-e78323f3-f775-488e-bdd0-368490172596.mov
+
+We created a user-friendly interface to interact with the contract. Here's the [source code](Code/dapp/app.py) for our application. In this web app, the user is able to:
 
 ```
 - Check Available CryptoBaras for minting
@@ -282,7 +282,9 @@ Clone this repository and run our Dapp with the following command:
 streamlit run app.py
 ```
 
-![cryptobara_minter](https://user-images.githubusercontent.com/88758706/155230249-e04a91cd-95fa-4c45-869e-474a649e6443.png)
+Here's the finished product:
+
+![streamlit-proj3](https://user-images.githubusercontent.com/88758706/155230814-f7c474ae-b826-45b1-bccf-0ee2e0a3d0a3.gif)
 
 ## Contract on Rinkeby Network
 ![Screen Shot 2022-02-16 at 12 21 00 AM](https://user-images.githubusercontent.com/78571802/154201646-77b48027-2d23-42cb-a850-d87abcc71676.png)
