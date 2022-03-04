@@ -165,14 +165,10 @@ if st.button("Check Tokens"):
     st.write("Tokens You Own:", tokens_by_owner)
 
 
-see_token = st.text_input("Enter TokenID You'd Like to See:")
+token_id = st.text_input("Enter TokenID You'd Like to See:")
 
-if st.button("Get Metadata"):
-    token_uri = contract.functions.tokenURI(int(see_token)).call()
-    ipfs_hash = token_uri[7:]
-    print(ipfs_hash)
-    st.markdown(f"Go to: [IPFS Gateway Link](https://ipfs.io/ipfs/{ipfs_hash})")
-
+if st.button("See Token"):
+    st.markdown(f"Go to: [IPFS Gateway Link](https://gateway.pinata.cloud/ipfs/QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/{token_id}.png)")
 
 
 # Hide Streamlit Style
