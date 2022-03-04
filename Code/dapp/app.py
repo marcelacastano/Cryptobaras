@@ -166,9 +166,10 @@ if st.button("Check Tokens"):
 
 
 token_id = st.text_input("Enter TokenID You'd Like to See:")
+contract_address = os.getenv("SMART_CONTRACT_ADDRESS")
 
 if st.button("See Token"):
-    st.markdown(f"Go to: [IPFS Gateway Link](https://gateway.pinata.cloud/ipfs/QmSufdtxA9rC5wziWkAgh3shD5KshjXzgow9bhErQXjyAi/{token_id}.png)")
+    st.markdown(f"Here's the link to your CryptoBara on [Open Sea](https://testnets.opensea.io/assets/{contract_address}/{token_id}/)")
 
 
 # Hide Streamlit Style
